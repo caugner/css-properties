@@ -1,9 +1,10 @@
-# Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5
+# Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6
 
 -moz-appearance: none;
 -moz-background-clip: border;
 -moz-background-inline-policy: continuous;
 -moz-background-origin: padding;
+-moz-background-size: auto auto;
 -moz-binding: none;
 -moz-border-bottom-colors: none;
 -moz-border-image: none;
@@ -89,10 +90,12 @@ flood-opacity: 1;
 font-family: monospace;
 font-size-adjust: none;
 font-size: 13px;
+font-stretch: normal;
 font-style: normal;
 font-variant: normal;
 font-weight: 400;
 height: 0px;
+image-rendering: auto;
 ime-mode: auto;
 left: auto;
 letter-spacing: normal;
@@ -128,7 +131,7 @@ padding-right: 10px;
 padding-top: 10px;
 page-break-after: auto;
 page-break-before: auto;
-pointer-events: visiblepainted;
+pointer-events: auto;
 position: static;
 quotes: "“" "”" "‘" "’";
 right: auto;
@@ -152,12 +155,12 @@ text-rendering: auto;
 text-shadow: none;
 text-transform: none;
 top: auto;
-unicode-bidi: normal;
+unicode-bidi: embed;
 vertical-align: baseline;
 visibility: visible;
 white-space: pre;
-width: 922px;
-word-spacing: normal;
+width: 894px;
+word-spacing: 0px;
 word-wrap: normal;
 z-index: auto;
 
