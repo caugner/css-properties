@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+# Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.9) Gecko/20061206 Firefox/1.5.0.9
 
 -moz-appearance: none;
 -moz-background-clip: border;
@@ -20,11 +20,15 @@
 -moz-box-orient: horizontal;
 -moz-box-pack: start;
 -moz-box-sizing: content-box;
+-moz-column-count: auto;
+-moz-column-gap: 0px;
+-moz-column-width: auto;
 -moz-float-edge: content-box;
 -moz-image-region: auto;
--moz-outline-color: rgb(0, 0, 0);
--moz-outline-style: none;
--moz-outline-width: medium;
+-moz-outline-radius-bottomleft: 0px;
+-moz-outline-radius-bottomright: 0px;
+-moz-outline-radius-topleft: 0px;
+-moz-outline-radius-topright: 0px;
 -moz-user-focus: none;
 -moz-user-input: auto;
 -moz-user-modify: read-only;
@@ -43,6 +47,7 @@ border-left-width: 1px;
 border-right-color: rgb(221, 221, 221);
 border-right-style: solid;
 border-right-width: 1px;
+border-spacing: 0px 0px;
 border-top-color: rgb(221, 221, 221);
 border-top-style: solid;
 border-top-width: 1px;
@@ -51,6 +56,8 @@ caption-side: top;
 clear: none;
 clip: auto;
 color: rgb(0, 0, 0);
+counter-increment: none;
+counter-reset: none;
 cursor: auto;
 direction: ltr;
 display: block;
@@ -79,6 +86,12 @@ max-width: none;
 min-height: 0px;
 min-width: 0px;
 opacity: 1;
+outline-color: rgb(0, 0, 0);
+outline-offset: 0px;
+outline-style: none;
+outline-width: 0px;
+overflow-x: visible;
+overflow-y: visible;
 overflow: visible;
 padding-bottom: 10px;
 padding-left: 10px;
