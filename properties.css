@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9) Gecko/2008052906 Firefox/3.0
+# Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5
 
 -moz-appearance: none;
 -moz-background-clip: border;
@@ -6,6 +6,7 @@
 -moz-background-origin: padding;
 -moz-binding: none;
 -moz-border-bottom-colors: none;
+-moz-border-image: none;
 -moz-border-left-colors: none;
 -moz-border-radius-bottomleft: 0px;
 -moz-border-radius-bottomright: 0px;
@@ -19,9 +20,13 @@
 -moz-box-ordinal-group: 1;
 -moz-box-orient: horizontal;
 -moz-box-pack: start;
+-moz-box-shadow: none;
 -moz-box-sizing: content-box;
 -moz-column-count: auto;
 -moz-column-gap: 13px;
+-moz-column-rule-color: rgb(0, 0, 0);
+-moz-column-rule-style: none;
+-moz-column-rule-width: 0px;
 -moz-column-width: auto;
 -moz-float-edge: content-box;
 -moz-force-broken-image-icon: 0;
@@ -30,10 +35,14 @@
 -moz-outline-radius-bottomright: 0px;
 -moz-outline-radius-topleft: 0px;
 -moz-outline-radius-topright: 0px;
+-moz-stack-sizing: stretch-to-fit;
+-moz-transform-origin: 50% 50%;
+-moz-transform: none;
 -moz-user-focus: none;
 -moz-user-input: auto;
 -moz-user-modify: read-only;
 -moz-user-select: auto;
+-moz-window-shadow: default;
 background-attachment: scroll;
 background-color: rgb(244, 244, 244);
 background-image: none;
@@ -140,13 +149,15 @@ text-anchor: start;
 text-decoration: none;
 text-indent: 0px;
 text-rendering: auto;
+text-shadow: none;
 text-transform: none;
 top: auto;
 unicode-bidi: normal;
 vertical-align: baseline;
 visibility: visible;
 white-space: pre;
-width: 894px;
+width: 922px;
 word-spacing: normal;
+word-wrap: normal;
 z-index: auto;
 
