@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.9 Safari/533.4
+# Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/6.0.453.1 Safari/534.2
 
 -webkit-animation-delay: 0s;
 -webkit-animation-direction: normal;
@@ -38,6 +38,7 @@
 -webkit-column-rule-color: rgb(0, 0, 0);
 -webkit-column-rule-style: none;
 -webkit-column-rule-width: 0px;
+-webkit-column-span: 1;
 -webkit-column-width: auto;
 -webkit-font-smoothing: auto;
 -webkit-highlight: none;
@@ -196,6 +197,7 @@ text-shadow: none;
 text-transform: none;
 top: auto;
 unicode-bidi: normal;
+vector-effect: none;
 vertical-align: baseline;
 visibility: visible;
 white-space: pre;
