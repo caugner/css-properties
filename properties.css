@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4
+# Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.91 Safari/537.11
 
 -webkit-align-content: stretch;
 -webkit-align-items: stretch;
@@ -32,6 +32,7 @@
 -webkit-box-pack: start;
 -webkit-box-reflect: none;
 -webkit-box-shadow: none;
+-webkit-clip-path: none;
 -webkit-color-correction: default;
 -webkit-column-axis: auto;
 -webkit-column-break-after: auto;
@@ -107,7 +108,7 @@
 -webkit-shape-inside: auto;
 -webkit-shape-outside: auto;
 -webkit-svg-shadow: none;
--webkit-tap-highlight-color: rgba(0, 0, 0, 0.2);
+-webkit-tap-highlight-color: rgba(0, 0, 0, 0.4);
 -webkit-text-combine: none;
 -webkit-text-decorations-in-effect: none;
 -webkit-text-emphasis-color: rgb(0, 0, 0);
@@ -118,7 +119,7 @@
 -webkit-text-security: none;
 -webkit-text-stroke-color: rgb(0, 0, 0);
 -webkit-text-stroke-width: 0px;
--webkit-transform-origin: 448.5px 0px;
+-webkit-transform-origin: 459.5px 11px;
 -webkit-transform-style: flat;
 -webkit-transform: none;
 -webkit-transition-delay: 0s;
@@ -128,7 +129,7 @@
 -webkit-user-drag: auto;
 -webkit-user-modify: read-only;
 -webkit-user-select: text;
--webkit-widget-region: null;
+-webkit-widget-region: ;
 -webkit-wrap-flow: auto;
 -webkit-wrap-margin: 0px;
 -webkit-wrap-padding: 0px;
@@ -224,6 +225,7 @@ orphans: 2;
 outline-color: rgb(0, 0, 0);
 outline-style: none;
 outline-width: 0px;
+overflow-wrap: normal;
 overflow-x: visible;
 overflow-y: visible;
 padding-bottom: 10px;
