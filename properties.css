@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.91 Safari/537.11
+# Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17
 
 -webkit-align-content: stretch;
 -webkit-align-items: stretch;
@@ -11,6 +11,7 @@
 -webkit-animation-name: none;
 -webkit-animation-play-state: running;
 -webkit-animation-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+-webkit-app-region: no-drag;
 -webkit-appearance: none;
 -webkit-backface-visibility: visible;
 -webkit-background-clip: border-box;
@@ -51,7 +52,7 @@
 -webkit-flex-direction: row;
 -webkit-flex-grow: 0;
 -webkit-flex-shrink: 1;
--webkit-flex-wrap: none;
+-webkit-flex-wrap: nowrap;
 -webkit-flow-from: none;
 -webkit-flow-into: none;
 -webkit-font-kerning: auto;
@@ -97,7 +98,7 @@
 -webkit-mask-size: auto;
 -webkit-nbsp-mode: normal;
 -webkit-order: 0;
--webkit-perspective-origin: 448.5px 0px;
+-webkit-perspective-origin: 952px 11px;
 -webkit-perspective: none;
 -webkit-print-color-adjust: economy;
 -webkit-region-break-after: auto;
@@ -119,7 +120,7 @@
 -webkit-text-security: none;
 -webkit-text-stroke-color: rgb(0, 0, 0);
 -webkit-text-stroke-width: 0px;
--webkit-transform-origin: 459.5px 11px;
+-webkit-transform-origin: 952px 11px;
 -webkit-transform-style: flat;
 -webkit-transform: none;
 -webkit-transition-delay: 0s;
@@ -129,7 +130,6 @@
 -webkit-user-drag: auto;
 -webkit-user-modify: read-only;
 -webkit-user-select: text;
--webkit-widget-region: ;
 -webkit-wrap-flow: auto;
 -webkit-wrap-margin: 0px;
 -webkit-wrap-padding: 0px;
@@ -215,6 +215,7 @@ margin-top: 13px;
 marker-end: none;
 marker-mid: none;
 marker-start: none;
+mask-type: luminance;
 mask: none;
 max-height: none;
 max-width: none;
@@ -268,7 +269,7 @@ vertical-align: baseline;
 visibility: visible;
 white-space: pre;
 widows: 2;
-width: 897px;
+width: 1882px;
 word-break: normal;
 word-spacing: 0px;
 word-wrap: normal;
