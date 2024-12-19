@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5
+# Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.47 Safari/536.11
 
 -webkit-animation-delay: 0s;
 -webkit-animation-direction: normal;
@@ -40,6 +40,7 @@
 -webkit-column-rule-width: 0px;
 -webkit-column-span: 1;
 -webkit-column-width: auto;
+-webkit-filter: none;
 -webkit-flex-align: stretch;
 -webkit-flex-direction: row;
 -webkit-flex-flow: row none;
@@ -48,6 +49,7 @@
 -webkit-flex-order: 0;
 -webkit-flex-pack: start;
 -webkit-flex-wrap: none;
+-webkit-flex: 0 0 auto;
 -webkit-flow-from: none;
 -webkit-flow-into: none;
 -webkit-font-kerning: auto;
@@ -87,7 +89,6 @@
 -webkit-mask-repeat: repeat;
 -webkit-mask-size: auto;
 -webkit-nbsp-mode: normal;
--webkit-overflow-scrolling: auto;
 -webkit-perspective-origin: 448px 0px;
 -webkit-perspective: none;
 -webkit-print-color-adjust: economy;
@@ -96,6 +97,8 @@
 -webkit-region-break-inside: auto;
 -webkit-region-overflow: auto;
 -webkit-rtl-ordering: logical;
+-webkit-shape-inside: auto;
+-webkit-shape-outside: auto;
 -webkit-svg-shadow: none;
 -webkit-tap-highlight-color: rgba(0, 0, 0, 0.199219);
 -webkit-text-combine: none;
