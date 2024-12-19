@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.172.31 Safari/530.5
+# Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/3.0.182.2 Safari/531.0
 
 -webkit-animation-delay: 0s;
 -webkit-animation-direction: normal;
@@ -102,6 +102,7 @@ caption-side: top;
 clear: none;
 clip-path: none;
 clip-rule: nonzero;
+clip: auto;
 color-interpolation-filters: linearrgb;
 color-interpolation: srgb;
 color-rendering: auto;
@@ -118,7 +119,7 @@ filter: none;
 float: none;
 flood-color: rgb(0, 0, 0);
 flood-opacity: 1;
-font-family: -webkit-monospace;
+font-family: monospace;
 font-size: 13px;
 font-style: normal;
 font-variant: normal;
@@ -191,6 +192,7 @@ visibility: visible;
 white-space: pre;
 widows: 2;
 width: 882px;
+word-break: normal;
 word-spacing: 0px;
 word-wrap: normal;
 writing-mode: lr-tb;
