@@ -1,8 +1,9 @@
-# Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.3 (KHTML, like Gecko) Chrome/4.0.223.11 Safari/532.3
+# Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.9 Safari/533.4
 
 -webkit-animation-delay: 0s;
 -webkit-animation-direction: normal;
 -webkit-animation-duration: 0s;
+-webkit-animation-fill-mode: none;
 -webkit-animation-iteration-count: 1;
 -webkit-animation-name: none;
 -webkit-animation-play-state: running;
@@ -12,6 +13,7 @@
 -webkit-background-clip: border-box;
 -webkit-background-composite: source-over;
 -webkit-background-origin: padding-box;
+-webkit-background-size: auto auto;
 -webkit-border-fit: border;
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
@@ -27,6 +29,7 @@
 -webkit-box-reflect: none;
 -webkit-box-shadow: none;
 -webkit-box-sizing: content-box;
+-webkit-color-correction: default;
 -webkit-column-break-after: auto;
 -webkit-column-break-before: auto;
 -webkit-column-break-inside: auto;
@@ -59,6 +62,7 @@
 -webkit-perspective-origin: 448px 0px;
 -webkit-perspective: none;
 -webkit-rtl-ordering: logical;
+-webkit-svg-shadow: none;
 -webkit-text-decorations-in-effect: none;
 -webkit-text-fill-color: rgb(0, 0, 0);
 -webkit-text-security: none;
