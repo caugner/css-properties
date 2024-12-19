@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36
+# Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36
 
 -webkit-animation-delay: 0s;
 -webkit-animation-direction: normal;
@@ -49,10 +49,6 @@
 -webkit-font-variant-ligatures: normal;
 -webkit-highlight: none;
 -webkit-hyphenate-character: auto;
--webkit-hyphenate-limit-after: auto;
--webkit-hyphenate-limit-before: auto;
--webkit-hyphenate-limit-lines: no-limit;
--webkit-hyphens: manual;
 -webkit-line-align: none;
 -webkit-line-box-contain: block inline replaced;
 -webkit-line-break: auto;
@@ -83,7 +79,6 @@
 -webkit-perspective: none;
 -webkit-print-color-adjust: economy;
 -webkit-rtl-ordering: logical;
--webkit-svg-shadow: none;
 -webkit-tap-highlight-color: rgba(0, 0, 0, 0.180392);
 -webkit-text-combine: none;
 -webkit-text-decorations-in-effect: none;
