@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.160 Safari/537.22
+# Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.43 Safari/537.31
 
 -webkit-align-content: stretch;
 -webkit-align-items: stretch;
@@ -10,7 +10,7 @@
 -webkit-animation-iteration-count: 1;
 -webkit-animation-name: none;
 -webkit-animation-play-state: running;
--webkit-animation-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+-webkit-animation-timing-function: ease;
 -webkit-app-region: no-drag;
 -webkit-appearance: none;
 -webkit-backface-visibility: visible;
@@ -58,6 +58,7 @@
 -webkit-font-kerning: auto;
 -webkit-font-smoothing: auto;
 -webkit-font-variant-ligatures: normal;
+-webkit-grid-auto-flow: none;
 -webkit-grid-column: auto;
 -webkit-grid-columns: none;
 -webkit-grid-row: auto;
@@ -127,7 +128,7 @@
 -webkit-transition-delay: 0s;
 -webkit-transition-duration: 0s;
 -webkit-transition-property: all;
--webkit-transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+-webkit-transition-timing-function: ease;
 -webkit-user-drag: auto;
 -webkit-user-modify: read-only;
 -webkit-user-select: text;
@@ -223,6 +224,7 @@ min-width: 0px;
 opacity: 1;
 orphans: auto;
 outline-color: rgb(0, 0, 0);
+outline-offset: 0px;
 outline-style: none;
 outline-width: 0px;
 overflow-wrap: normal;
@@ -262,6 +264,10 @@ text-rendering: auto;
 text-shadow: none;
 text-transform: none;
 top: auto;
+transition-delay: 0s;
+transition-duration: 0s;
+transition-property: all;
+transition-timing-function: ease;
 unicode-bidi: normal;
 vector-effect: none;
 vertical-align: baseline;
