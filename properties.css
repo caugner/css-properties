@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.43 Safari/537.31
+# Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36
 
 -webkit-align-content: stretch;
 -webkit-align-items: stretch;
@@ -58,11 +58,15 @@
 -webkit-font-kerning: auto;
 -webkit-font-smoothing: auto;
 -webkit-font-variant-ligatures: normal;
+-webkit-grid-after: auto;
+-webkit-grid-auto-columns: auto;
 -webkit-grid-auto-flow: none;
--webkit-grid-column: auto;
+-webkit-grid-auto-rows: auto;
+-webkit-grid-before: auto;
 -webkit-grid-columns: none;
--webkit-grid-row: auto;
+-webkit-grid-end: auto;
 -webkit-grid-rows: none;
+-webkit-grid-start: auto;
 -webkit-highlight: none;
 -webkit-hyphenate-character: auto;
 -webkit-hyphenate-limit-after: auto;
@@ -106,7 +110,7 @@
 -webkit-region-break-inside: auto;
 -webkit-region-overflow: auto;
 -webkit-rtl-ordering: logical;
--webkit-shape-inside: auto;
+-webkit-shape-inside: outside-shape;
 -webkit-shape-margin: 0px;
 -webkit-shape-outside: auto;
 -webkit-shape-padding: 0px;
