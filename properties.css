@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7
+# Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11
 
 -webkit-animation-delay: 0s;
 -webkit-animation-direction: normal;
@@ -29,6 +29,7 @@
 -webkit-box-reflect: none;
 -webkit-box-shadow: none;
 -webkit-color-correction: default;
+-webkit-column-axis: auto;
 -webkit-column-break-after: auto;
 -webkit-column-break-before: auto;
 -webkit-column-break-inside: auto;
@@ -39,6 +40,11 @@
 -webkit-column-rule-width: 0px;
 -webkit-column-span: 1;
 -webkit-column-width: auto;
+-webkit-flex-align: stretch;
+-webkit-flex-flow: row;
+-webkit-flex-order: 0;
+-webkit-flex-pack: start;
+-webkit-flow-from: none;
 -webkit-flow-into: auto;
 -webkit-font-smoothing: auto;
 -webkit-highlight: none;
@@ -50,6 +56,8 @@
 -webkit-line-box-contain: block inline replaced;
 -webkit-line-break: normal;
 -webkit-line-clamp: none;
+-webkit-line-grid-snap: none;
+-webkit-line-grid: none;
 -webkit-locale: auto;
 -webkit-margin-after-collapse: collapse;
 -webkit-margin-before-collapse: collapse;
@@ -74,6 +82,7 @@
 -webkit-nbsp-mode: normal;
 -webkit-perspective-origin: 448px 0px;
 -webkit-perspective: none;
+-webkit-print-color-adjust: economy;
 -webkit-region-break-after: auto;
 -webkit-region-break-before: auto;
 -webkit-region-break-inside: auto;
@@ -101,6 +110,10 @@
 -webkit-user-drag: auto;
 -webkit-user-modify: read-only;
 -webkit-user-select: text;
+-webkit-wrap-flow: auto;
+-webkit-wrap-margin: 0px;
+-webkit-wrap-padding: 0px;
+-webkit-wrap-through: wrap;
 -webkit-writing-mode: horizontal-tb;
 alignment-baseline: auto;
 background-attachment: scroll;
