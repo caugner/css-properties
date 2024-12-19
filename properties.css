@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.215 Safari/534.10
+# Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.84 Safari/534.13
 
 -webkit-animation-delay: 0s;
 -webkit-animation-direction: normal;
@@ -28,7 +28,6 @@
 -webkit-box-pack: start;
 -webkit-box-reflect: none;
 -webkit-box-shadow: none;
--webkit-box-sizing: content-box;
 -webkit-color-correction: default;
 -webkit-column-break-after: auto;
 -webkit-column-break-before: auto;
@@ -64,6 +63,7 @@
 -webkit-perspective: none;
 -webkit-rtl-ordering: logical;
 -webkit-svg-shadow: none;
+-webkit-text-combine: none;
 -webkit-text-decorations-in-effect: none;
 -webkit-text-fill-color: rgb(0, 0, 0);
 -webkit-text-security: none;
@@ -108,6 +108,7 @@ border-top-right-radius: 5px;
 border-top-style: solid;
 border-top-width: 1px;
 bottom: auto;
+box-sizing: content-box;
 caption-side: top;
 clear: none;
 clip-path: none;
