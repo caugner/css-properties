@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.24
+# Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.91 Safari/534.30
 
 -webkit-animation-delay: 0s;
 -webkit-animation-direction: normal;
@@ -45,6 +45,7 @@
 -webkit-hyphenate-limit-after: auto;
 -webkit-hyphenate-limit-before: auto;
 -webkit-hyphens: manual;
+-webkit-line-box-contain: block inline replaced;
 -webkit-line-break: normal;
 -webkit-line-clamp: none;
 -webkit-locale: auto;
@@ -74,6 +75,7 @@
 -webkit-text-emphasis-position: over;
 -webkit-text-emphasis-style: none;
 -webkit-text-fill-color: rgb(0, 0, 0);
+-webkit-text-orientation: vertical-right;
 -webkit-text-security: none;
 -webkit-text-stroke-color: rgb(0, 0, 0);
 -webkit-text-stroke-width: 0px;
