@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.106 Safari/535.2
+# Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7
 
 -webkit-animation-delay: 0s;
 -webkit-animation-direction: normal;
@@ -13,7 +13,7 @@
 -webkit-background-clip: border-box;
 -webkit-background-composite: source-over;
 -webkit-background-origin: padding-box;
--webkit-background-size: auto auto;
+-webkit-background-size: auto;
 -webkit-border-fit: border;
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
@@ -39,13 +39,13 @@
 -webkit-column-rule-width: 0px;
 -webkit-column-span: 1;
 -webkit-column-width: auto;
--webkit-content-order: 0;
--webkit-flow: auto;
+-webkit-flow-into: auto;
 -webkit-font-smoothing: auto;
 -webkit-highlight: none;
 -webkit-hyphenate-character: auto;
 -webkit-hyphenate-limit-after: auto;
 -webkit-hyphenate-limit-before: auto;
+-webkit-hyphenate-limit-lines: no-limit;
 -webkit-hyphens: manual;
 -webkit-line-box-contain: block inline replaced;
 -webkit-line-break: normal;
@@ -58,9 +58,11 @@
 -webkit-marquee-repetition: infinite;
 -webkit-marquee-style: scroll;
 -webkit-mask-attachment: scroll;
--webkit-mask-box-image-repeat: stretch stretch;
--webkit-mask-box-image-slice: 100%;
+-webkit-mask-box-image-outset: 0px;
+-webkit-mask-box-image-repeat: stretch;
+-webkit-mask-box-image-slice: 0 fill;
 -webkit-mask-box-image-source: none;
+-webkit-mask-box-image-width: auto;
 -webkit-mask-box-image: none;
 -webkit-mask-clip: border-box;
 -webkit-mask-composite: source-over;
@@ -68,7 +70,7 @@
 -webkit-mask-origin: border-box;
 -webkit-mask-position: 0% 0%;
 -webkit-mask-repeat: repeat;
--webkit-mask-size: auto auto;
+-webkit-mask-size: auto;
 -webkit-nbsp-mode: normal;
 -webkit-perspective-origin: 448px 0px;
 -webkit-perspective: none;
@@ -78,6 +80,7 @@
 -webkit-region-overflow: auto;
 -webkit-rtl-ordering: logical;
 -webkit-svg-shadow: none;
+-webkit-tap-highlight-color: rgba(0, 0, 0, 0.199219);
 -webkit-text-combine: none;
 -webkit-text-decorations-in-effect: none;
 -webkit-text-emphasis-color: rgb(0, 0, 0);
@@ -107,7 +110,7 @@ background-image: none;
 background-origin: padding-box;
 background-position: 0% 0%;
 background-repeat: repeat;
-background-size: auto auto;
+background-size: auto;
 baseline-shift: baseline;
 border-bottom-color: rgb(221, 221, 221);
 border-bottom-left-radius: 5px;
@@ -115,9 +118,11 @@ border-bottom-right-radius: 5px;
 border-bottom-style: solid;
 border-bottom-width: 1px;
 border-collapse: separate;
-border-image-repeat: stretch stretch;
+border-image-outset: 0px;
+border-image-repeat: stretch;
 border-image-slice: 100%;
 border-image-source: none;
+border-image-width: 1;
 border-left-color: rgb(221, 221, 221);
 border-left-style: solid;
 border-left-width: 1px;
