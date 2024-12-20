@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
@@ -145,6 +145,7 @@ direction: ltr;
 display: block;
 dominant-baseline: auto;
 empty-cells: show;
+field-sizing: fixed;
 fill-opacity: 1;
 fill-rule: nonzero;
 fill: rgb(0, 0, 0);
@@ -333,6 +334,7 @@ text-overflow: clip;
 text-rendering: auto;
 text-shadow: none;
 text-size-adjust: auto;
+text-spacing-trim: normal;
 text-transform: none;
 text-underline-position: auto;
 text-wrap: nowrap;
@@ -348,7 +350,7 @@ transition-duration: 0s;
 transition-property: all;
 transition-timing-function: ease;
 translate: none;
-unicode-bidi: normal;
+unicode-bidi: isolate;
 user-select: auto;
 vector-effect: none;
 vertical-align: baseline;
