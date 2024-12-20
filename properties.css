@@ -1,9 +1,8 @@
-# Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36
 
 -webkit-app-region: no-drag;
 -webkit-appearance: none;
 -webkit-background-clip: border-box;
--webkit-background-composite: source-over;
 -webkit-background-origin: padding-box;
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
@@ -199,7 +198,7 @@ padding-left: 10px;
 padding-right: 10px;
 padding-top: 10px;
 paint-order: fill stroke markers;
-perspective-origin: 995px 11px;
+perspective-origin: 952px 11px;
 perspective: none;
 pointer-events: auto;
 position: static;
@@ -236,7 +235,7 @@ text-shadow: none;
 text-transform: none;
 top: auto;
 touch-action: auto;
-transform-origin: 995px 11px;
+transform-origin: 952px 11px;
 transform-style: flat;
 transform: none;
 transition-delay: 0s;
@@ -249,7 +248,7 @@ vertical-align: baseline;
 visibility: visible;
 white-space: pre;
 widows: 1;
-width: 1968px;
+width: 1882px;
 will-change: auto;
 word-break: normal;
 word-spacing: 0px;
