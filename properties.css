@@ -1,6 +1,5 @@
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
 
--webkit-app-region: none;
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
 -webkit-border-vertical-spacing: 0px;
@@ -60,6 +59,7 @@ animation-iteration-count: 1;
 animation-name: none;
 animation-play-state: running;
 animation-timing-function: ease;
+app-region: none;
 appearance: none;
 backdrop-filter: none;
 backface-visibility: visible;
@@ -136,6 +136,11 @@ column-rule-style: none;
 column-rule-width: 0px;
 column-span: none;
 column-width: auto;
+contain-intrinsic-block-size: auto;
+contain-intrinsic-height: auto;
+contain-intrinsic-inline-size: auto;
+contain-intrinsic-size: auto;
+contain-intrinsic-width: auto;
 content: normal;
 cursor: auto;
 cx: 0px;
