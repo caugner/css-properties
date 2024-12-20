@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+# Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
 
 -webkit-animation-delay: 0s;
 -webkit-animation-direction: normal;
@@ -71,7 +71,7 @@
 -webkit-mask-position: 0% 0%;
 -webkit-mask-repeat: repeat;
 -webkit-mask-size: auto;
--webkit-perspective-origin: 997.5px 11px;
+-webkit-perspective-origin: 952px 11px;
 -webkit-perspective: none;
 -webkit-print-color-adjust: economy;
 -webkit-rtl-ordering: logical;
@@ -86,7 +86,7 @@
 -webkit-text-security: none;
 -webkit-text-stroke-color: rgb(0, 0, 0);
 -webkit-text-stroke-width: 0px;
--webkit-transform-origin: 997.5px 11px;
+-webkit-transform-origin: 952px 11px;
 -webkit-transform-style: flat;
 -webkit-transform: none;
 -webkit-transition-delay: 0s;
@@ -193,6 +193,8 @@ max-height: none;
 max-width: none;
 min-height: 0px;
 min-width: 0px;
+object-fit: fill;
+object-position: 50% 50%;
 opacity: 1;
 order: 0;
 orphans: auto;
@@ -237,6 +239,7 @@ text-rendering: auto;
 text-shadow: none;
 text-transform: none;
 top: auto;
+touch-action-delay: script;
 transition-delay: 0s;
 transition-duration: 0s;
 transition-property: all;
@@ -247,7 +250,7 @@ vertical-align: baseline;
 visibility: visible;
 white-space: pre;
 widows: auto;
-width: 1973px;
+width: 1882px;
 word-break: normal;
 word-spacing: 0px;
 word-wrap: normal;
