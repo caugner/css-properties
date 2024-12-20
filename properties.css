@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
@@ -12,7 +12,6 @@
 -webkit-box-pack: start;
 -webkit-box-reflect: none;
 -webkit-font-smoothing: auto;
--webkit-highlight: none;
 -webkit-line-break: auto;
 -webkit-line-clamp: none;
 -webkit-locale: "en";
@@ -180,6 +179,7 @@ font-variant-caps: normal;
 font-variant-east-asian: normal;
 font-variant-ligatures: normal;
 font-variant-numeric: normal;
+font-variant-position: normal;
 font-variant: normal;
 font-weight: 400;
 grid-auto-columns: auto;
@@ -260,6 +260,7 @@ overflow-clip-margin: 0px;
 overflow-wrap: normal;
 overflow-x: visible;
 overflow-y: visible;
+overlay: none;
 overscroll-behavior-block: auto;
 overscroll-behavior-inline: auto;
 padding-block-end: 10px;
@@ -338,6 +339,7 @@ touch-action: auto;
 transform-origin: 952px 11px;
 transform-style: flat;
 transform: none;
+transition-behavior: normal;
 transition-delay: 0s;
 transition-duration: 0s;
 transition-property: all;
