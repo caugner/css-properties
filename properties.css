@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36
 
 -webkit-app-region: no-drag;
 -webkit-appearance: none;
@@ -199,7 +199,6 @@ object-position: 50% 50%;
 offset-distance: 0px;
 offset-path: none;
 offset-rotate: auto 0deg;
-offset-rotation: auto 0deg;
 opacity: 1;
 order: 0;
 orphans: 2;
@@ -216,7 +215,7 @@ padding-left: 10px;
 padding-right: 10px;
 padding-top: 10px;
 paint-order: fill stroke markers;
-perspective-origin: 995px 11px;
+perspective-origin: 952px 11px;
 perspective: none;
 pointer-events: auto;
 position: static;
@@ -259,7 +258,7 @@ text-transform: none;
 text-underline-position: auto;
 top: auto;
 touch-action: auto;
-transform-origin: 995px 11px;
+transform-origin: 952px 11px;
 transform-style: flat;
 transform: none;
 transition-delay: 0s;
@@ -273,7 +272,7 @@ vertical-align: baseline;
 visibility: visible;
 white-space: pre;
 widows: 2;
-width: 1968px;
+width: 1882px;
 will-change: auto;
 word-break: normal;
 word-spacing: 0px;
