@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36
 
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
@@ -229,6 +229,7 @@ min-width: 0px;
 mix-blend-mode: normal;
 object-fit: fill;
 object-position: 50% 50%;
+object-view-box: none;
 offset-distance: 0px;
 offset-path: none;
 offset-rotate: auto 0deg;
@@ -262,10 +263,12 @@ position: static;
 r: 0px;
 resize: none;
 right: auto;
+rotate: none;
 row-gap: normal;
 ruby-position: over;
 rx: auto;
 ry: auto;
+scale: none;
 scroll-behavior: auto;
 scroll-margin-block-end: 0px;
 scroll-margin-block-start: 0px;
@@ -320,6 +323,7 @@ transition-delay: 0s;
 transition-duration: 0s;
 transition-property: all;
 transition-timing-function: ease;
+translate: none;
 unicode-bidi: normal;
 user-select: auto;
 vector-effect: none;
