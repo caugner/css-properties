@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
@@ -192,6 +192,7 @@ hyphenate-limit-chars: auto;
 hyphens: manual;
 image-orientation: from-image;
 image-rendering: auto;
+initial-letter: normal;
 inline-size: 1882px;
 inset-block-end: auto;
 inset-block-start: auto;
