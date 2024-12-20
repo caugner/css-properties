@@ -1,9 +1,7 @@
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36
 
 -webkit-app-region: no-drag;
 -webkit-appearance: none;
--webkit-background-clip: border-box;
--webkit-background-origin: padding-box;
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
 -webkit-border-vertical-spacing: 0px;
@@ -217,7 +215,7 @@ padding-left: 10px;
 padding-right: 10px;
 padding-top: 10px;
 paint-order: fill stroke markers;
-perspective-origin: 952px 11px;
+perspective-origin: 995px 11px;
 perspective: none;
 pointer-events: auto;
 position: static;
@@ -249,7 +247,7 @@ text-align: start;
 text-anchor: start;
 text-decoration-color: rgb(0, 0, 0);
 text-decoration-line: none;
-text-decoration-skip: objects;
+text-decoration-skip-ink: auto;
 text-decoration-style: solid;
 text-decoration: none solid rgb(0, 0, 0);
 text-indent: 0px;
@@ -261,7 +259,7 @@ text-transform: none;
 text-underline-position: auto;
 top: auto;
 touch-action: auto;
-transform-origin: 952px 11px;
+transform-origin: 995px 11px;
 transform-style: flat;
 transform: none;
 transition-delay: 0s;
@@ -275,7 +273,7 @@ vertical-align: baseline;
 visibility: visible;
 white-space: pre;
 widows: 2;
-width: 1882px;
+width: 1968px;
 will-change: auto;
 word-break: normal;
 word-spacing: 0px;
