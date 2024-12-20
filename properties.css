@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
@@ -40,6 +40,7 @@ align-items: normal;
 align-self: auto;
 alignment-baseline: auto;
 anchor-name: none;
+anchor-scope: none;
 animation-composition: replace;
 animation-delay: 0s;
 animation-direction: normal;
@@ -174,6 +175,7 @@ font-synthesis-weight: auto;
 font-variant-alternates: normal;
 font-variant-caps: normal;
 font-variant-east-asian: normal;
+font-variant-emoji: normal;
 font-variant-ligatures: normal;
 font-variant-numeric: normal;
 font-variant-position: normal;
@@ -197,7 +199,6 @@ image-orientation: from-image;
 image-rendering: auto;
 initial-letter: normal;
 inline-size: 1882px;
-inset-area: none;
 inset-block-end: auto;
 inset-block-start: auto;
 inset-inline-end: auto;
