@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
@@ -243,8 +243,10 @@ mix-blend-mode: normal;
 object-fit: fill;
 object-position: 50% 50%;
 object-view-box: none;
+offset-anchor: auto;
 offset-distance: 0px;
 offset-path: none;
+offset-position: auto;
 offset-rotate: auto 0deg;
 opacity: 1;
 order: 0;
@@ -330,6 +332,7 @@ text-size-adjust: auto;
 text-transform: none;
 text-underline-position: auto;
 text-wrap: nowrap;
+timeline-scope: none;
 top: auto;
 touch-action: auto;
 transform-origin: 952px 11px;
