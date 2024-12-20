@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
 
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
@@ -35,9 +35,6 @@
 -webkit-tap-highlight-color: rgba(0, 0, 0, 0.18);
 -webkit-text-combine: none;
 -webkit-text-decorations-in-effect: none;
--webkit-text-emphasis-color: rgb(0, 0, 0);
--webkit-text-emphasis-position: over right;
--webkit-text-emphasis-style: none;
 -webkit-text-fill-color: rgb(0, 0, 0);
 -webkit-text-orientation: vertical-right;
 -webkit-text-security: none;
@@ -303,6 +300,9 @@ text-decoration-line: none;
 text-decoration-skip-ink: auto;
 text-decoration-style: solid;
 text-decoration: none solid rgb(0, 0, 0);
+text-emphasis-color: rgb(0, 0, 0);
+text-emphasis-position: over;
+text-emphasis-style: none;
 text-indent: 0px;
 text-overflow: clip;
 text-rendering: auto;
