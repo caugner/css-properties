@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
 
 -webkit-app-region: none;
 -webkit-appearance: none;
@@ -210,7 +210,7 @@ padding-bottom: 10px;
 padding-left: 10px;
 padding-right: 10px;
 padding-top: 10px;
-paint-order: fill stroke markers;
+paint-order: normal;
 perspective-origin: 952px 11px;
 perspective: none;
 pointer-events: auto;
