@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 
 -webkit-app-region: no-drag;
 -webkit-appearance: none;
@@ -183,6 +183,7 @@ object-fit: fill;
 object-position: 50% 50%;
 offset-distance: 0px;
 offset-path: none;
+offset-rotate: auto 0deg;
 offset-rotation: auto 0deg;
 opacity: 1;
 order: 0;
@@ -191,6 +192,7 @@ outline-color: rgb(0, 0, 0);
 outline-offset: 0px;
 outline-style: none;
 outline-width: 0px;
+overflow-anchor: auto;
 overflow-wrap: normal;
 overflow-x: visible;
 overflow-y: visible;
