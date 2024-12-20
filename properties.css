@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
+# Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
 
 -webkit-animation-delay: 0s;
 -webkit-animation-direction: normal;
@@ -45,15 +45,11 @@
 -webkit-column-width: auto;
 -webkit-filter: none;
 -webkit-font-smoothing: auto;
--webkit-font-variant-ligatures: normal;
 -webkit-highlight: none;
 -webkit-hyphenate-character: auto;
--webkit-line-align: none;
 -webkit-line-box-contain: block inline replaced;
 -webkit-line-break: auto;
 -webkit-line-clamp: none;
--webkit-line-grid: none;
--webkit-line-snap: none;
 -webkit-locale: en;
 -webkit-margin-after-collapse: collapse;
 -webkit-margin-before-collapse: collapse;
@@ -151,7 +147,7 @@ dominant-baseline: auto;
 empty-cells: show;
 fill-opacity: 1;
 fill-rule: nonzero;
-fill: #000000;
+fill: rgb(0, 0, 0);
 filter: none;
 flex-basis: auto;
 flex-direction: row;
@@ -165,6 +161,7 @@ font-family: monospace;
 font-kerning: auto;
 font-size: 13px;
 font-style: normal;
+font-variant-ligatures: normal;
 font-variant: normal;
 font-weight: normal;
 glyph-orientation-horizontal: 0deg;
@@ -239,7 +236,6 @@ text-rendering: auto;
 text-shadow: none;
 text-transform: none;
 top: auto;
-touch-action-delay: script;
 transition-delay: 0s;
 transition-duration: 0s;
 transition-property: all;
