@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36
+# Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
 
 -webkit-animation-delay: 0s;
 -webkit-animation-direction: normal;
@@ -15,7 +15,6 @@
 -webkit-background-composite: source-over;
 -webkit-background-origin: padding-box;
 -webkit-background-size: auto;
--webkit-border-fit: border;
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
 -webkit-border-vertical-spacing: 0px;
@@ -169,7 +168,7 @@ glyph-orientation-horizontal: 0deg;
 glyph-orientation-vertical: auto;
 height: 0px;
 image-rendering: auto;
-justify-content: flex-start;
+justify-content: start;
 left: auto;
 letter-spacing: normal;
 lighting-color: rgb(255, 255, 255);
