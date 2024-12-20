@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
+# Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
 
 -webkit-animation-delay: 0s;
 -webkit-animation-direction: normal;
@@ -44,7 +44,6 @@
 -webkit-column-span: none;
 -webkit-column-width: auto;
 -webkit-filter: none;
--webkit-font-kerning: auto;
 -webkit-font-smoothing: auto;
 -webkit-font-variant-ligatures: normal;
 -webkit-highlight: none;
@@ -163,6 +162,7 @@ float: none;
 flood-color: rgb(0, 0, 0);
 flood-opacity: 1;
 font-family: monospace;
+font-kerning: auto;
 font-size: 13px;
 font-style: normal;
 font-variant: normal;
