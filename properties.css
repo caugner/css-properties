@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
@@ -188,6 +188,7 @@ grid-template-columns: none;
 grid-template-rows: none;
 height: 0px;
 hyphenate-character: auto;
+hyphenate-limit-chars: auto;
 hyphens: manual;
 image-orientation: from-image;
 image-rendering: auto;
@@ -220,6 +221,9 @@ marker-end: none;
 marker-mid: none;
 marker-start: none;
 mask-type: luminance;
+math-depth: 0;
+math-shift: normal;
+math-style: normal;
 max-block-size: none;
 max-height: none;
 max-inline-size: none;
