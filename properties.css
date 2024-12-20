@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
@@ -21,13 +21,6 @@
 -webkit-mask-box-image-source: none;
 -webkit-mask-box-image-width: auto;
 -webkit-mask-box-image: none;
--webkit-mask-clip: border-box;
--webkit-mask-composite: source-over;
--webkit-mask-image: none;
--webkit-mask-origin: border-box;
--webkit-mask-position: 0% 0%;
--webkit-mask-repeat: repeat;
--webkit-mask-size: auto;
 -webkit-print-color-adjust: economy;
 -webkit-rtl-ordering: logical;
 -webkit-tap-highlight-color: rgba(0, 0, 0, 0.18);
@@ -227,6 +220,14 @@ margin-top: 13px;
 marker-end: none;
 marker-mid: none;
 marker-start: none;
+mask-clip: border-box;
+mask-composite: add;
+mask-image: none;
+mask-mode: match-source;
+mask-origin: border-box;
+mask-position: 0% 0%;
+mask-repeat: repeat;
+mask-size: auto;
 mask-type: luminance;
 math-depth: 0;
 math-shift: normal;
