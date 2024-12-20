@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
@@ -69,6 +69,7 @@ background-position: 0% 0%;
 background-repeat: repeat;
 background-size: auto;
 baseline-shift: 0px;
+baseline-source: auto;
 block-size: 0px;
 border-block-end-color: rgb(221, 221, 221);
 border-block-end-style: solid;
@@ -170,6 +171,7 @@ font-style: normal;
 font-synthesis-small-caps: auto;
 font-synthesis-style: auto;
 font-synthesis-weight: auto;
+font-variant-alternates: normal;
 font-variant-caps: normal;
 font-variant-east-asian: normal;
 font-variant-ligatures: normal;
@@ -335,6 +337,7 @@ unicode-bidi: normal;
 user-select: auto;
 vector-effect: none;
 vertical-align: baseline;
+view-transition-name: none;
 visibility: visible;
 white-space: pre;
 widows: 2;
