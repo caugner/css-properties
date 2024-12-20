@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
 
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
@@ -55,6 +55,9 @@ animation-fill-mode: none;
 animation-iteration-count: 1;
 animation-name: none;
 animation-play-state: running;
+animation-range-end: normal;
+animation-range-start: normal;
+animation-timeline: auto;
 animation-timing-function: ease;
 app-region: none;
 appearance: none;
@@ -288,6 +291,8 @@ scroll-padding-block-end: auto;
 scroll-padding-block-start: auto;
 scroll-padding-inline-end: auto;
 scroll-padding-inline-start: auto;
+scroll-timeline-axis: block;
+scroll-timeline-name: none;
 scrollbar-gutter: auto;
 shape-image-threshold: 0;
 shape-margin: 0px;
@@ -339,6 +344,9 @@ unicode-bidi: normal;
 user-select: auto;
 vector-effect: none;
 vertical-align: baseline;
+view-timeline-axis: block;
+view-timeline-inset: 0px;
+view-timeline-name: none;
 view-transition-name: none;
 visibility: visible;
 white-space-collapse: preserve;
