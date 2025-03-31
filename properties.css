@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 5.2; rv:5.0.1) Gecko/20100101 Firefox/5.0.1
+# Mozilla/5.0 (Windows NT 5.2; rv:6.0) Gecko/20100101 Firefox/6.0
 
 -moz-animation-delay: 0s;
 -moz-animation-direction: normal;
@@ -33,13 +33,19 @@
 -moz-font-feature-settings: normal;
 -moz-font-language-override: normal;
 -moz-force-broken-image-icon: 0;
+-moz-hyphens: manual;
 -moz-image-region: auto;
+-moz-orient: horizontal;
 -moz-outline-radius-bottomleft: 0px;
 -moz-outline-radius-bottomright: 0px;
 -moz-outline-radius-topleft: 0px;
 -moz-outline-radius-topright: 0px;
 -moz-stack-sizing: stretch-to-fit;
 -moz-tab-size: 8;
+-moz-text-blink: none;
+-moz-text-decoration-color: rgb(0, 0, 0);
+-moz-text-decoration-line: none;
+-moz-text-decoration-style: solid;
 -moz-transform-origin: 50% 50%;
 -moz-transform: none;
 -moz-transition-delay: 0s;
