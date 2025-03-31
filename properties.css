@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
 
 -moz-box-align: stretch;
 -moz-box-direction: normal;
@@ -229,6 +229,7 @@ outline-style: none;
 outline-width: 0px;
 overflow-anchor: auto;
 overflow-block: visible;
+overflow-clip-margin: 0px;
 overflow-inline: visible;
 overflow-wrap: normal;
 overflow-x: visible;
