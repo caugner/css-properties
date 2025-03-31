@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:20.0) Gecko/20100101 Firefox/20.0
+# Mozilla/5.0 (Windows NT 5.2; rv:21.0) Gecko/20100101 Firefox/21.0
 
 -moz-appearance: none;
 -moz-background-inline-policy: continuous;
@@ -28,7 +28,7 @@
 -moz-force-broken-image-icon: 0;
 -moz-hyphens: manual;
 -moz-image-region: auto;
--moz-orient: horizontal;
+-moz-orient: auto;
 -moz-outline-radius-bottomleft: 0px;
 -moz-outline-radius-bottomright: 0px;
 -moz-outline-radius-topleft: 0px;
@@ -165,7 +165,8 @@ padding-top: 10px;
 page-break-after: auto;
 page-break-before: auto;
 page-break-inside: auto;
-perspective-origin: 485px 11px;
+paint-order: ;
+perspective-origin: 952px 11px;
 perspective: none;
 pointer-events: auto;
 position: static;
@@ -193,7 +194,7 @@ text-rendering: auto;
 text-shadow: none;
 text-transform: none;
 top: auto;
-transform-origin: 485px 11px;
+transform-origin: 952px 11px;
 transform-style: flat;
 transform: none;
 transition-delay: 0s;
@@ -205,7 +206,7 @@ vector-effect: none;
 vertical-align: baseline;
 visibility: visible;
 white-space: pre;
-width: 948px;
+width: 1882px;
 word-break: normal;
 word-spacing: 0px;
 word-wrap: normal;
