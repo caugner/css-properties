@@ -1,4 +1,6 @@
-# Mozilla/5.0 (Windows NT 5.2; rv:12.0) Gecko/20100101 Firefox/12.0
+
+
+# Mozilla/5.0 (Windows NT 5.2; rv:13.0) Gecko/20100101 Firefox/13.0
 
 -moz-animation-delay: 0s;
 -moz-animation-direction: normal;
@@ -25,6 +27,7 @@
 -moz-box-pack: start;
 -moz-box-sizing: content-box;
 -moz-column-count: auto;
+-moz-column-fill: balance;
 -moz-column-gap: 13px;
 -moz-column-rule-color: rgb(0, 0, 0);
 -moz-column-rule-style: none;
@@ -41,7 +44,7 @@
 -moz-outline-radius-bottomright: 0px;
 -moz-outline-radius-topleft: 0px;
 -moz-outline-radius-topright: 0px;
--moz-perspective-origin: 50% 50%;
+-moz-perspective-origin: 952px 11px;
 -moz-perspective: none;
 -moz-stack-sizing: stretch-to-fit;
 -moz-tab-size: 8;
@@ -51,7 +54,7 @@
 -moz-text-decoration-line: none;
 -moz-text-decoration-style: solid;
 -moz-text-size-adjust: auto;
--moz-transform-origin: 50% 50%;
+-moz-transform-origin: 952px 11px;
 -moz-transform-style: flat;
 -moz-transform: none;
 -moz-transition-delay: 0s;
