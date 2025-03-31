@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0
 
 -moz-box-align: stretch;
 -moz-box-direction: normal;
@@ -35,6 +35,7 @@ animation-play-state: running;
 animation-timing-function: ease;
 appearance: none;
 aspect-ratio: auto;
+backdrop-filter: none;
 backface-visibility: visible;
 background-attachment: scroll;
 background-blend-mode: normal;
@@ -281,6 +282,7 @@ scroll-padding-left: auto;
 scroll-padding-right: auto;
 scroll-padding-top: auto;
 scroll-snap-align: none;
+scroll-snap-stop: normal;
 scroll-snap-type: none;
 scrollbar-color: auto;
 scrollbar-gutter: auto;
