@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:35.0) Gecko/20100101 Firefox/35.0
+# Mozilla/5.0 (Windows NT 5.2; rv:36.0) Gecko/20100101 Firefox/36.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -33,9 +33,6 @@
 -moz-stack-sizing: stretch-to-fit;
 -moz-tab-size: 8;
 -moz-text-align-last: auto;
--moz-text-decoration-color: rgb(0, 0, 0);
--moz-text-decoration-line: none;
--moz-text-decoration-style: solid;
 -moz-text-size-adjust: auto;
 -moz-user-focus: none;
 -moz-user-input: auto;
@@ -140,6 +137,7 @@ height: 0px;
 image-orientation: 0deg;
 image-rendering: auto;
 ime-mode: auto;
+isolation: auto;
 justify-content: flex-start;
 left: auto;
 letter-spacing: normal;
@@ -163,6 +161,8 @@ max-width: none;
 min-height: 0px;
 min-width: 0px;
 mix-blend-mode: normal;
+object-fit: fill;
+object-position: 50% 50%;
 opacity: 1;
 order: 0;
 outline-color: rgb(0, 0, 0);
@@ -187,6 +187,7 @@ position: static;
 quotes: "" "" "" "";
 resize: none;
 right: auto;
+scroll-behavior: auto;
 shape-rendering: auto;
 stop-color: rgb(0, 0, 0);
 stop-opacity: 1;
@@ -201,6 +202,9 @@ stroke: none;
 table-layout: auto;
 text-align: start;
 text-anchor: start;
+text-decoration-color: rgb(0, 0, 0);
+text-decoration-line: none;
+text-decoration-style: solid;
 text-decoration: none;
 text-indent: 0px;
 text-overflow: clip;
@@ -221,6 +225,7 @@ vertical-align: baseline;
 visibility: visible;
 white-space: pre;
 width: 1882px;
+will-change: auto;
 word-break: normal;
 word-spacing: 0px;
 word-wrap: normal;
