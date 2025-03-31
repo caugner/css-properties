@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:43.0) Gecko/20100101 Firefox/43.0
+# Mozilla/5.0 (Windows NT 5.2; rv:44.0) Gecko/20100101 Firefox/44.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -38,7 +38,6 @@
 -moz-user-modify: read-only;
 -moz-user-select: auto;
 -moz-window-dragging: no-drag;
--moz-window-shadow: default;
 align-content: stretch;
 align-items: stretch;
 align-self: stretch;
@@ -49,7 +48,7 @@ animation-fill-mode: none;
 animation-iteration-count: 1;
 animation-name: none;
 animation-play-state: running;
-animation-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+animation-timing-function: ease;
 backface-visibility: visible;
 background-attachment: scroll;
 background-blend-mode: normal;
@@ -227,7 +226,7 @@ transform: none;
 transition-delay: 0s;
 transition-duration: 0s;
 transition-property: all;
-transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+transition-timing-function: ease;
 unicode-bidi: -moz-isolate;
 vector-effect: none;
 vertical-align: baseline;
