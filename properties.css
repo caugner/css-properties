@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 
 -moz-box-align: stretch;
 -moz-box-direction: normal;
@@ -221,6 +221,8 @@ mask-position-y: 0%;
 mask-repeat: repeat;
 mask-size: auto;
 mask-type: luminance;
+math-depth: 0;
+math-style: normal;
 max-block-size: none;
 max-height: none;
 max-inline-size: none;
