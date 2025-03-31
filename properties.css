@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:26.0) Gecko/20100101 Firefox/26.0
+# Mozilla/5.0 (Windows NT 5.2; rv:27.0) Gecko/20100101 Firefox/27.0
 
 -moz-appearance: none;
 -moz-background-inline-policy: continuous;
@@ -30,7 +30,6 @@
 -moz-hyphens: manual;
 -moz-image-region: auto;
 -moz-orient: auto;
--moz-osx-font-smoothing: ;
 -moz-outline-radius-bottomleft: 0px;
 -moz-outline-radius-bottomright: 0px;
 -moz-outline-radius-topleft: 0px;
@@ -119,18 +118,10 @@ float: none;
 flood-color: rgb(0, 0, 0);
 flood-opacity: 1;
 font-family: monospace;
-font-kerning: ;
 font-size-adjust: none;
 font-size: 13px;
 font-stretch: normal;
 font-style: normal;
-font-synthesis: ;
-font-variant-alternates: ;
-font-variant-caps: ;
-font-variant-east-asian: ;
-font-variant-ligatures: ;
-font-variant-numeric: ;
-font-variant-position: ;
 font-variant: normal;
 font-weight: 400;
 height: 0px;
@@ -153,13 +144,11 @@ marker-end: none;
 marker-mid: none;
 marker-offset: auto;
 marker-start: none;
-mask-type: ;
 mask: none;
 max-height: none;
 max-width: none;
 min-height: 0px;
 min-width: 0px;
-mix-blend-mode: ;
 opacity: 1;
 order: 0;
 outline-color: rgb(0, 0, 0);
@@ -176,7 +165,6 @@ padding-top: 10px;
 page-break-after: auto;
 page-break-before: auto;
 page-break-inside: auto;
-paint-order: ;
 perspective-origin: 952px 11px;
 perspective: none;
 pointer-events: auto;
@@ -198,10 +186,8 @@ stroke: none;
 table-layout: auto;
 text-align: start;
 text-anchor: start;
-text-combine-horizontal: ;
 text-decoration: none;
 text-indent: 0px;
-text-orientation: ;
 text-overflow: clip;
 text-rendering: auto;
 text-shadow: none;
@@ -223,6 +209,5 @@ width: 1882px;
 word-break: normal;
 word-spacing: 0px;
 word-wrap: normal;
-writing-mode: ;
 z-index: auto;
 
