@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0
+# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 
 -moz-box-align: stretch;
 -moz-box-direction: normal;
@@ -25,6 +25,7 @@ accent-color: auto;
 align-content: normal;
 align-items: normal;
 align-self: auto;
+animation-composition: replace;
 animation-delay: 0s;
 animation-direction: normal;
 animation-duration: 0s;
@@ -47,6 +48,7 @@ background-position-x: 0%;
 background-position-y: 0%;
 background-repeat: repeat;
 background-size: auto;
+baseline-source: auto;
 block-size: 0px;
 border-block-end-color: rgb(221, 221, 221);
 border-block-end-style: solid;
