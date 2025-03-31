@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
+# Mozilla/5.0 (Windows NT 5.2; rv:40.0) Gecko/20100101 Firefox/40.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -25,7 +25,7 @@
 -moz-force-broken-image-icon: 0;
 -moz-hyphens: manual;
 -moz-image-region: auto;
--moz-orient: auto;
+-moz-orient: inline;
 -moz-outline-radius-bottomleft: 0px;
 -moz-outline-radius-bottomright: 0px;
 -moz-outline-radius-topleft: 0px;
