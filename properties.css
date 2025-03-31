@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 
 -moz-box-align: stretch;
 -moz-box-direction: normal;
@@ -144,7 +144,7 @@ font-size-adjust: none;
 font-size: 13px;
 font-stretch: 100%;
 font-style: normal;
-font-synthesis: weight style;
+font-synthesis: weight style small-caps;
 font-variant-alternates: normal;
 font-variant-caps: normal;
 font-variant-east-asian: normal;
