@@ -1,17 +1,8 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:15.0) Gecko/20100101 Firefox/15.0
+# Mozilla/5.0 (Windows NT 5.2; rv:16.0) Gecko/20100101 Firefox/16.0
 
--moz-animation-delay: 0s;
--moz-animation-direction: normal;
--moz-animation-duration: 0s;
--moz-animation-fill-mode: none;
--moz-animation-iteration-count: 1;
--moz-animation-name: none;
--moz-animation-play-state: running;
--moz-animation-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
 -moz-appearance: none;
--moz-backface-visibility: visible;
 -moz-background-inline-policy: continuous;
 -moz-binding: none;
 -moz-border-bottom-colors: none;
@@ -42,8 +33,6 @@
 -moz-outline-radius-bottomright: 0px;
 -moz-outline-radius-topleft: 0px;
 -moz-outline-radius-topright: 0px;
--moz-perspective-origin: 952px 11px;
--moz-perspective: none;
 -moz-stack-sizing: stretch-to-fit;
 -moz-tab-size: 8;
 -moz-text-align-last: auto;
@@ -52,18 +41,20 @@
 -moz-text-decoration-line: none;
 -moz-text-decoration-style: solid;
 -moz-text-size-adjust: auto;
--moz-transform-origin: 952px 11px;
--moz-transform-style: flat;
--moz-transform: none;
--moz-transition-delay: 0s;
--moz-transition-duration: 0s;
--moz-transition-property: all;
--moz-transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
 -moz-user-focus: none;
 -moz-user-input: auto;
 -moz-user-modify: read-only;
 -moz-user-select: auto;
 -moz-window-shadow: default;
+animation-delay: 0s;
+animation-direction: normal;
+animation-duration: 0s;
+animation-fill-mode: none;
+animation-iteration-count: 1;
+animation-name: none;
+animation-play-state: running;
+animation-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+backface-visibility: visible;
 background-attachment: scroll;
 background-clip: border-box;
 background-color: rgb(244, 244, 244);
@@ -164,6 +155,8 @@ padding-right: 10px;
 padding-top: 10px;
 page-break-after: auto;
 page-break-before: auto;
+perspective-origin: 952px 11px;
+perspective: none;
 pointer-events: auto;
 position: static;
 quotes: "" "" "" "";
@@ -190,6 +183,13 @@ text-rendering: auto;
 text-shadow: none;
 text-transform: none;
 top: auto;
+transform-origin: 952px 11px;
+transform-style: flat;
+transform: none;
+transition-delay: 0s;
+transition-duration: 0s;
+transition-property: all;
+transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
 unicode-bidi: -moz-isolate;
 vector-effect: none;
 vertical-align: baseline;
