@@ -1,9 +1,8 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:31.0) Gecko/20100101 Firefox/31.0
+# Mozilla/5.0 (Windows NT 5.2; rv:32.0) Gecko/20100101 Firefox/32.0
 
 -moz-appearance: none;
--moz-background-inline-policy: continuous;
 -moz-binding: none;
 -moz-border-bottom-colors: none;
 -moz-border-left-colors: none;
@@ -90,6 +89,7 @@ border-top-right-radius: 5px;
 border-top-style: solid;
 border-top-width: 1px;
 bottom: auto;
+box-decoration-break: slice;
 box-shadow: none;
 box-sizing: content-box;
 caption-side: top;
@@ -152,6 +152,7 @@ max-height: none;
 max-width: none;
 min-height: 0px;
 min-width: 0px;
+mix-blend-mode: normal;
 opacity: 1;
 order: 0;
 outline-color: rgb(0, 0, 0);
