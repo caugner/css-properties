@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:40.0) Gecko/20100101 Firefox/40.0
+# Mozilla/5.0 (Windows NT 5.2; rv:41.0) Gecko/20100101 Firefox/41.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -215,6 +215,7 @@ text-decoration-line: none;
 text-decoration-style: solid;
 text-decoration: none;
 text-indent: 0px;
+text-orientation: mixed;
 text-overflow: clip;
 text-rendering: auto;
 text-shadow: none;
@@ -237,5 +238,6 @@ will-change: auto;
 word-break: normal;
 word-spacing: 0px;
 word-wrap: normal;
+writing-mode: horizontal-tb;
 z-index: auto;
 
