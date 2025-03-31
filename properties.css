@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0
+# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0
 
 -moz-appearance: none;
 -moz-box-align: stretch;
@@ -252,7 +252,7 @@ perspective-origin: 472px 11px;
 perspective: none;
 pointer-events: auto;
 position: static;
-quotes: "" "" "" "";
+quotes: auto;
 r: 0px;
 resize: none;
 right: auto;
@@ -303,8 +303,10 @@ text-anchor: start;
 text-combine-upright: none;
 text-decoration-color: rgb(0, 0, 0);
 text-decoration-line: none;
+text-decoration-skip-ink: auto;
 text-decoration-style: solid;
-text-decoration: none;
+text-decoration-thickness: auto;
+text-decoration: rgb(0, 0, 0);
 text-emphasis-color: rgb(0, 0, 0);
 text-emphasis-position: over right;
 text-emphasis-style: none;
@@ -315,6 +317,7 @@ text-overflow: clip;
 text-rendering: auto;
 text-shadow: none;
 text-transform: none;
+text-underline-offset: auto;
 top: auto;
 touch-action: auto;
 transform-box: border-box;
