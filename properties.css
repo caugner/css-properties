@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:48.0) Gecko/20100101 Firefox/48.0
+# Mozilla/5.0 (Windows NT 5.2; rv:49.0) Gecko/20100101 Firefox/49.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -31,13 +31,15 @@
 -moz-outline-radius-topright: 0px;
 -moz-stack-sizing: stretch-to-fit;
 -moz-tab-size: 8;
--moz-text-align-last: auto;
 -moz-text-size-adjust: auto;
 -moz-user-focus: none;
 -moz-user-input: auto;
 -moz-user-modify: read-only;
 -moz-user-select: auto;
 -moz-window-dragging: default;
+-webkit-text-fill-color: rgb(0, 0, 0);
+-webkit-text-stroke-color: rgb(0, 0, 0);
+-webkit-text-stroke-width: 0px;
 align-content: normal;
 align-items: normal;
 align-self: normal;
@@ -56,6 +58,8 @@ background-clip: border-box;
 background-color: rgb(244, 244, 244);
 background-image: none;
 background-origin: padding-box;
+background-position-x: 0%;
+background-position-y: 0%;
 background-position: 0% 0%;
 background-repeat: repeat;
 background-size: auto auto;
@@ -171,6 +175,7 @@ outline-color: rgb(0, 0, 0);
 outline-offset: 0px;
 outline-style: none;
 outline-width: 0px;
+overflow-wrap: normal;
 overflow-x: visible;
 overflow-y: visible;
 overflow: visible;
@@ -210,6 +215,7 @@ stroke-opacity: 1;
 stroke-width: 1px;
 stroke: none;
 table-layout: auto;
+text-align-last: auto;
 text-align: start;
 text-anchor: start;
 text-combine-upright: none;
@@ -243,7 +249,6 @@ width: 1882px;
 will-change: auto;
 word-break: normal;
 word-spacing: 0px;
-word-wrap: normal;
 writing-mode: horizontal-tb;
 z-index: auto;
 
