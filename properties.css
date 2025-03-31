@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:14.0) Gecko/20100101 Firefox/14.0.1
+# Mozilla/5.0 (Windows NT 5.2; rv:15.0) Gecko/20100101 Firefox/15.0
 
 -moz-animation-delay: 0s;
 -moz-animation-direction: normal;
@@ -15,7 +15,6 @@
 -moz-background-inline-policy: continuous;
 -moz-binding: none;
 -moz-border-bottom-colors: none;
--moz-border-image: none;
 -moz-border-left-colors: none;
 -moz-border-right-colors: none;
 -moz-border-top-colors: none;
@@ -79,6 +78,11 @@ border-bottom-right-radius: 5px;
 border-bottom-style: solid;
 border-bottom-width: 1px;
 border-collapse: separate;
+border-image-outset: 0 0 0 0;
+border-image-repeat: stretch stretch;
+border-image-slice: 100% 100% 100% 100%;
+border-image-source: none;
+border-image-width: 1 1 1 1;
 border-left-color: rgb(221, 221, 221);
 border-left-style: solid;
 border-left-width: 1px;
@@ -187,10 +191,12 @@ text-shadow: none;
 text-transform: none;
 top: auto;
 unicode-bidi: -moz-isolate;
+vector-effect: none;
 vertical-align: baseline;
 visibility: visible;
 white-space: pre;
 width: 1882px;
+word-break: normal;
 word-spacing: 0px;
 word-wrap: normal;
 z-index: auto;
