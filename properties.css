@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; WOW64; rv:61.0) Gecko/20100101 Firefox/61.0
+# Mozilla/5.0 (Windows NT 6.1; WOW64; rv:62.0) Gecko/20100101 Firefox/62.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -27,9 +27,6 @@
 -moz-user-modify: read-only;
 -moz-user-select: auto;
 -moz-window-dragging: default;
--moz-window-opacity: 1;
--moz-window-transform-origin: 472px 11px;
--moz-window-transform: none;
 -webkit-text-fill-color: rgb(0, 0, 0);
 -webkit-text-stroke-color: rgb(0, 0, 0);
 -webkit-text-stroke-width: 0px;
@@ -226,6 +223,9 @@ scroll-snap-points-x: none;
 scroll-snap-points-y: none;
 scroll-snap-type-x: none;
 scroll-snap-type-y: none;
+shape-image-threshold: 0;
+shape-margin: 0px;
+shape-outside: none;
 shape-rendering: auto;
 stop-color: rgb(0, 0, 0);
 stop-opacity: 1;
