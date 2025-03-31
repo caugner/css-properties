@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:37.0) Gecko/20100101 Firefox/37.0
+# Mozilla/5.0 (Windows NT 5.2; rv:38.0) Gecko/20100101 Firefox/38.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -187,6 +187,8 @@ position: static;
 quotes: "" "" "" "";
 resize: none;
 right: auto;
+ruby-align: space-around;
+ruby-position: over;
 scroll-behavior: auto;
 shape-rendering: auto;
 stop-color: rgb(0, 0, 0);
