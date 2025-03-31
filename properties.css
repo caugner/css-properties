@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:47.0) Gecko/20100101 Firefox/47.0
+# Mozilla/5.0 (Windows NT 5.2; rv:48.0) Gecko/20100101 Firefox/48.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -91,6 +91,7 @@ clear: none;
 clip-path: none;
 clip-rule: nonzero;
 clip: auto;
+color-adjust: economy;
 color-interpolation-filters: linearrgb;
 color-interpolation: srgb;
 color: rgb(0, 0, 0);
@@ -211,6 +212,7 @@ stroke: none;
 table-layout: auto;
 text-align: start;
 text-anchor: start;
+text-combine-upright: none;
 text-decoration-color: rgb(0, 0, 0);
 text-decoration-line: none;
 text-decoration-style: solid;
