@@ -1,7 +1,9 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+# Mozilla/5.0 (Windows NT 5.2; rv:18.0) Gecko/20100101 Firefox/18.0
 
+-moz-align-items: ;
+-moz-align-self: ;
 -moz-appearance: none;
 -moz-background-inline-policy: continuous;
 -moz-binding: none;
@@ -22,12 +24,18 @@
 -moz-column-rule-style: none;
 -moz-column-rule-width: 0px;
 -moz-column-width: auto;
+-moz-flex-basis: ;
+-moz-flex-direction: ;
+-moz-flex-grow: ;
+-moz-flex-shrink: ;
 -moz-float-edge: content-box;
 -moz-font-feature-settings: normal;
 -moz-font-language-override: normal;
 -moz-force-broken-image-icon: 0;
 -moz-hyphens: manual;
 -moz-image-region: auto;
+-moz-justify-content: ;
+-moz-order: ;
 -moz-orient: horizontal;
 -moz-outline-radius-bottomleft: 0px;
 -moz-outline-radius-bottomright: 0px;
