@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 5.2; rv:6.0) Gecko/20100101 Firefox/6.0
+# Mozilla/5.0 (Windows NT 5.2; rv:7.0) Gecko/20100101 Firefox/7.0
 
 -moz-animation-delay: 0s;
 -moz-animation-direction: normal;
@@ -173,6 +173,7 @@ text-align: start;
 text-anchor: start;
 text-decoration: none;
 text-indent: 0px;
+text-overflow: clip;
 text-rendering: auto;
 text-shadow: none;
 text-transform: none;
@@ -181,7 +182,7 @@ unicode-bidi: embed;
 vertical-align: baseline;
 visibility: visible;
 white-space: pre;
-width: 1882px;
+width: 1981px;
 word-spacing: 0px;
 word-wrap: normal;
 z-index: auto;
