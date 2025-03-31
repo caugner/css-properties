@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:21.0) Gecko/20100101 Firefox/21.0
+# Mozilla/5.0 (Windows NT 5.2; rv:22.0) Gecko/20100101 Firefox/22.0
 
 -moz-appearance: none;
 -moz-background-inline-policy: continuous;
@@ -17,6 +17,7 @@
 -moz-box-pack: start;
 -moz-box-sizing: content-box;
 -moz-column-count: auto;
+-moz-column-fill: balance;
 -moz-column-gap: 13px;
 -moz-column-rule-color: rgb(0, 0, 0);
 -moz-column-rule-style: none;
@@ -46,8 +47,8 @@
 -moz-user-modify: read-only;
 -moz-user-select: auto;
 -moz-window-shadow: default;
-align-items: ;
-align-self: ;
+align-items: stretch;
+align-self: stretch;
 animation-delay: 0s;
 animation-direction: normal;
 animation-duration: 0s;
@@ -110,10 +111,10 @@ fill-opacity: 1;
 fill-rule: nonzero;
 fill: rgb(0, 0, 0);
 filter: none;
-flex-basis: ;
-flex-direction: ;
-flex-grow: ;
-flex-shrink: ;
+flex-basis: auto;
+flex-direction: row;
+flex-grow: 0;
+flex-shrink: 1;
 float: none;
 flood-color: rgb(0, 0, 0);
 flood-opacity: 1;
@@ -127,7 +128,7 @@ font-weight: 400;
 height: 0px;
 image-rendering: auto;
 ime-mode: auto;
-justify-content: ;
+justify-content: flex-start;
 left: auto;
 letter-spacing: normal;
 lighting-color: rgb(255, 255, 255);
@@ -150,7 +151,7 @@ max-width: none;
 min-height: 0px;
 min-width: 0px;
 opacity: 1;
-order: ;
+order: 0;
 outline-color: rgb(0, 0, 0);
 outline-offset: 0px;
 outline-style: none;
