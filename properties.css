@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
+# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
 
 -moz-appearance: none;
 -moz-box-align: stretch;
@@ -17,7 +17,6 @@
 -moz-outline-radius-bottomright: 0px;
 -moz-outline-radius-topleft: 0px;
 -moz-outline-radius-topright: 0px;
--moz-stack-sizing: stretch-to-fit;
 -moz-tab-size: 8;
 -moz-text-size-adjust: auto;
 -moz-user-focus: none;
@@ -327,6 +326,7 @@ text-rendering: auto;
 text-shadow: none;
 text-transform: none;
 text-underline-offset: auto;
+text-underline-position: auto;
 top: auto;
 touch-action: auto;
 transform-box: border-box;
