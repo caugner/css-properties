@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:41.0) Gecko/20100101 Firefox/41.0
+# Mozilla/5.0 (Windows NT 5.2; rv:43.0) Gecko/20100101 Firefox/43.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -23,7 +23,6 @@
 -moz-column-width: auto;
 -moz-float-edge: content-box;
 -moz-force-broken-image-icon: 0;
--moz-hyphens: manual;
 -moz-image-region: auto;
 -moz-orient: inline;
 -moz-outline-radius-bottomleft: 0px;
@@ -134,6 +133,7 @@ font-variant-position: normal;
 font-variant: normal;
 font-weight: 400;
 height: 0px;
+hyphens: manual;
 image-orientation: 0deg;
 image-rendering: auto;
 ime-mode: auto;
