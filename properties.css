@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:33.0) Gecko/20100101 Firefox/33.0
+# Mozilla/5.0 (Windows NT 5.2; rv:34.0) Gecko/20100101 Firefox/34.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -22,8 +22,6 @@
 -moz-column-rule-width: 0px;
 -moz-column-width: auto;
 -moz-float-edge: content-box;
--moz-font-feature-settings: normal;
--moz-font-language-override: normal;
 -moz-force-broken-image-icon: 0;
 -moz-hyphens: manual;
 -moz-image-region: auto;
@@ -121,10 +119,20 @@ float: none;
 flood-color: rgb(0, 0, 0);
 flood-opacity: 1;
 font-family: monospace;
+font-feature-settings: normal;
+font-kerning: auto;
+font-language-override: normal;
 font-size-adjust: none;
 font-size: 13px;
 font-stretch: normal;
 font-style: normal;
+font-synthesis: weight style;
+font-variant-alternates: normal;
+font-variant-caps: normal;
+font-variant-east-asian: normal;
+font-variant-ligatures: normal;
+font-variant-numeric: normal;
+font-variant-position: normal;
 font-variant: normal;
 font-weight: 400;
 height: 0px;
