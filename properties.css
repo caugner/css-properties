@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:29.0) Gecko/20100101 Firefox/29.0
+# Mozilla/5.0 (Windows NT 5.2; rv:30.0) Gecko/20100101 Firefox/30.0
 
 -moz-appearance: none;
 -moz-background-inline-policy: continuous;
@@ -58,6 +58,7 @@ animation-play-state: running;
 animation-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
 backface-visibility: visible;
 background-attachment: scroll;
+background-blend-mode: normal;
 background-clip: border-box;
 background-color: rgb(244, 244, 244);
 background-image: none;
