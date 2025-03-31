@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:30.0) Gecko/20100101 Firefox/30.0
+# Mozilla/5.0 (Windows NT 5.2; rv:31.0) Gecko/20100101 Firefox/31.0
 
 -moz-appearance: none;
 -moz-background-inline-policy: continuous;
@@ -168,6 +168,7 @@ padding-top: 10px;
 page-break-after: auto;
 page-break-before: auto;
 page-break-inside: auto;
+paint-order: normal;
 perspective-origin: 952px 11px;
 perspective: none;
 pointer-events: auto;
