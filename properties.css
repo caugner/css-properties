@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:23.0) Gecko/20100101 Firefox/23.0
+# Mozilla/5.0 (Windows NT 5.2; rv:24.0) Gecko/20100101 Firefox/24.0
 
 -moz-appearance: none;
 -moz-background-inline-policy: continuous;
@@ -119,10 +119,18 @@ float: none;
 flood-color: rgb(0, 0, 0);
 flood-opacity: 1;
 font-family: monospace;
+font-kerning: ;
 font-size-adjust: none;
 font-size: 13px;
 font-stretch: normal;
 font-style: normal;
+font-synthesis: ;
+font-variant-alternates: ;
+font-variant-caps: ;
+font-variant-east-asian: ;
+font-variant-ligatures: ;
+font-variant-numeric: ;
+font-variant-position: ;
 font-variant: normal;
 font-weight: 400;
 height: 0px;
@@ -211,5 +219,6 @@ width: 1882px;
 word-break: normal;
 word-spacing: 0px;
 word-wrap: normal;
+writing-mode: ;
 z-index: auto;
 
