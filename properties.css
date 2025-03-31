@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
 
 -moz-box-align: stretch;
 -moz-box-direction: normal;
@@ -112,6 +112,10 @@ column-rule-style: none;
 column-rule-width: 0px;
 column-span: none;
 column-width: auto;
+contain-intrinsic-block-size: none;
+contain-intrinsic-height: none;
+contain-intrinsic-inline-size: none;
+contain-intrinsic-width: none;
 contain: none;
 content: normal;
 counter-increment: none;
@@ -141,6 +145,7 @@ font-family: monospace;
 font-feature-settings: normal;
 font-kerning: auto;
 font-language-override: normal;
+font-palette: normal;
 font-size-adjust: none;
 font-size: 13px;
 font-stretch: 100%;
