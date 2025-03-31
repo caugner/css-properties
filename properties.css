@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
 
 -moz-box-align: stretch;
 -moz-box-direction: normal;
@@ -12,7 +12,6 @@
 -moz-force-broken-image-icon: 0;
 -moz-image-region: auto;
 -moz-orient: inline;
--moz-tab-size: 8;
 -moz-text-size-adjust: auto;
 -moz-user-focus: none;
 -moz-user-input: auto;
@@ -301,6 +300,7 @@ stroke-miterlimit: 4;
 stroke-opacity: 1;
 stroke-width: 1px;
 stroke: none;
+tab-size: 8;
 table-layout: auto;
 text-align-last: auto;
 text-align: start;
