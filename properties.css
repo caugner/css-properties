@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0
 
 -moz-box-align: stretch;
 -moz-box-direction: normal;
@@ -18,6 +18,7 @@
 -moz-window-dragging: default;
 -webkit-line-clamp: none;
 -webkit-text-fill-color: rgb(0, 0, 0);
+-webkit-text-security: none;
 -webkit-text-stroke-color: rgb(0, 0, 0);
 -webkit-text-stroke-width: 0px;
 accent-color: auto;
