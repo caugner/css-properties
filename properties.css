@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
 
 -moz-appearance: none;
 -moz-box-align: stretch;
@@ -117,7 +117,7 @@ column-rule-width: 0px;
 column-span: none;
 column-width: auto;
 contain: none;
-content: none;
+content: normal;
 counter-increment: none;
 counter-reset: none;
 counter-set: none;
@@ -240,6 +240,8 @@ overflow-wrap: normal;
 overflow-x: visible;
 overflow-y: visible;
 overflow: visible;
+overscroll-behavior-block: auto;
+overscroll-behavior-inline: auto;
 overscroll-behavior-x: auto;
 overscroll-behavior-y: auto;
 padding-block-end: 10px;
