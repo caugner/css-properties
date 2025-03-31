@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:107.0) Gecko/20100101 Firefox/107.0
+# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0
 
 -moz-box-align: stretch;
 -moz-box-direction: normal;
@@ -318,7 +318,7 @@ text-decoration-skip-ink: auto;
 text-decoration-style: solid;
 text-decoration-thickness: auto;
 text-emphasis-color: rgb(0, 0, 0);
-text-emphasis-position: over right;
+text-emphasis-position: over;
 text-emphasis-style: none;
 text-indent: 0px;
 text-justify: auto;
