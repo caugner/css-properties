@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0
 
 -moz-box-align: stretch;
 -moz-box-direction: normal;
@@ -13,7 +13,6 @@
 -moz-orient: inline;
 -moz-text-size-adjust: auto;
 -moz-user-input: auto;
--moz-user-modify: read-only;
 -moz-window-dragging: default;
 -webkit-line-clamp: none;
 -webkit-text-fill-color: rgb(0, 0, 0);
@@ -332,7 +331,7 @@ text-decoration-skip-ink: auto;
 text-decoration-style: solid;
 text-decoration-thickness: auto;
 text-emphasis-color: rgb(0, 0, 0);
-text-emphasis-position: over;
+text-emphasis-position: auto;
 text-emphasis-style: none;
 text-indent: 0px;
 text-justify: auto;
