@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 
 -webkit-border-horizontal-spacing: 0px;
 -webkit-border-image: none;
@@ -300,6 +300,7 @@ rx: auto;
 ry: auto;
 scale: none;
 scroll-behavior: auto;
+scroll-initial-target: none;
 scroll-margin-block-end: 0px;
 scroll-margin-block-start: 0px;
 scroll-margin-inline-end: 0px;
@@ -333,6 +334,8 @@ table-layout: auto;
 text-align-last: auto;
 text-align: start;
 text-anchor: start;
+text-box-edge: auto;
+text-box-trim: none;
 text-decoration-color: rgb(0, 0, 0);
 text-decoration-line: none;
 text-decoration-skip-ink: auto;
