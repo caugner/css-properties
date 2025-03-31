@@ -1,8 +1,7 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
 
--moz-appearance: none;
 -moz-box-align: stretch;
 -moz-box-direction: normal;
 -moz-box-flex: 0;
@@ -38,6 +37,7 @@ animation-iteration-count: 1;
 animation-name: none;
 animation-play-state: running;
 animation-timing-function: ease;
+appearance: none;
 backface-visibility: visible;
 background-attachment: scroll;
 background-blend-mode: normal;
