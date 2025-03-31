@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:45.0) Gecko/20100101 Firefox/45.0
+# Mozilla/5.0 (Windows NT 5.2; rv:46.0) Gecko/20100101 Firefox/46.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -38,9 +38,9 @@
 -moz-user-modify: read-only;
 -moz-user-select: auto;
 -moz-window-dragging: no-drag;
-align-content: auto;
-align-items: start;
-align-self: start;
+align-content: normal;
+align-items: normal;
+align-self: normal;
 animation-delay: 0s;
 animation-direction: normal;
 animation-duration: 0s;
@@ -137,9 +137,9 @@ image-orientation: 0deg;
 image-rendering: auto;
 ime-mode: auto;
 isolation: auto;
-justify-content: auto;
-justify-items: start;
-justify-self: start;
+justify-content: normal;
+justify-items: normal;
+justify-self: normal;
 left: auto;
 letter-spacing: normal;
 lighting-color: rgb(255, 255, 255);
@@ -215,6 +215,9 @@ text-decoration-color: rgb(0, 0, 0);
 text-decoration-line: none;
 text-decoration-style: solid;
 text-decoration: none;
+text-emphasis-color: rgb(0, 0, 0);
+text-emphasis-position: over right;
+text-emphasis-style: none;
 text-indent: 0px;
 text-orientation: mixed;
 text-overflow: clip;
