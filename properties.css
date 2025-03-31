@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
 
 -moz-box-align: stretch;
 -moz-box-direction: normal;
@@ -342,7 +342,8 @@ text-shadow: none;
 text-transform: none;
 text-underline-offset: auto;
 text-underline-position: auto;
-text-wrap: auto;
+text-wrap-mode: nowrap;
+text-wrap-style: auto;
 top: auto;
 touch-action: auto;
 transform-box: view-box;
@@ -359,7 +360,7 @@ user-select: auto;
 vector-effect: none;
 vertical-align: baseline;
 visibility: visible;
-white-space: pre;
+white-space-collapse: preserve;
 width: 922px;
 will-change: auto;
 word-break: normal;
