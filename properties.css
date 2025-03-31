@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 5.2; rv:7.0) Gecko/20100101 Firefox/7.0
+# Mozilla/5.0 (Windows NT 5.2; rv:8.0.1) Gecko/20100101 Firefox/8.0.1
 
 -moz-animation-delay: 0s;
 -moz-animation-direction: normal;
@@ -7,8 +7,9 @@
 -moz-animation-iteration-count: 1;
 -moz-animation-name: none;
 -moz-animation-play-state: running;
--moz-animation-timing-function: cubic-bezier(0.250000, 0.100000, 0.250000, 1.000000);
+-moz-animation-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
 -moz-appearance: none;
+-moz-backface-visibility: ;
 -moz-background-inline-policy: continuous;
 -moz-binding: none;
 -moz-border-bottom-colors: none;
@@ -40,6 +41,8 @@
 -moz-outline-radius-bottomright: 0px;
 -moz-outline-radius-topleft: 0px;
 -moz-outline-radius-topright: 0px;
+-moz-perspective-origin: ;
+-moz-perspective: ;
 -moz-stack-sizing: stretch-to-fit;
 -moz-tab-size: 8;
 -moz-text-blink: none;
@@ -51,7 +54,7 @@
 -moz-transition-delay: 0s;
 -moz-transition-duration: 0s;
 -moz-transition-property: all;
--moz-transition-timing-function: cubic-bezier(0.250000, 0.100000, 0.250000, 1.000000);
+-moz-transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
 -moz-user-focus: none;
 -moz-user-input: auto;
 -moz-user-modify: read-only;
@@ -182,7 +185,7 @@ unicode-bidi: embed;
 vertical-align: baseline;
 visibility: visible;
 white-space: pre;
-width: 1981px;
+width: 1882px;
 word-spacing: 0px;
 word-wrap: normal;
 z-index: auto;
