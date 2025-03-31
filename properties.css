@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
 
 -moz-appearance: none;
 -moz-box-align: stretch;
@@ -223,6 +223,10 @@ min-width: 0px;
 mix-blend-mode: normal;
 object-fit: fill;
 object-position: 50% 50%;
+offset-anchor: auto;
+offset-distance: 0px;
+offset-path: none;
+offset-rotate: auto;
 opacity: 1;
 order: 0;
 outline-color: rgb(0, 0, 0);
@@ -257,11 +261,13 @@ quotes: auto;
 r: 0px;
 resize: none;
 right: auto;
+rotate: none;
 row-gap: normal;
 ruby-align: space-around;
 ruby-position: over;
 rx: auto;
 ry: auto;
+scale: none;
 scroll-behavior: auto;
 scroll-margin-block-end: 0px;
 scroll-margin-block-start: 0px;
@@ -329,6 +335,7 @@ transition-delay: 0s;
 transition-duration: 0s;
 transition-property: all;
 transition-timing-function: ease;
+translate: none;
 unicode-bidi: isolate;
 user-select: auto;
 vector-effect: none;
