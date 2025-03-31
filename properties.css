@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 
 -moz-box-align: stretch;
 -moz-box-direction: normal;
@@ -351,6 +351,7 @@ transform-box: view-box;
 transform-origin: 472px 11px;
 transform-style: flat;
 transform: none;
+transition-behavior: normal;
 transition-delay: 0s;
 transition-duration: 0s;
 transition-property: all;
