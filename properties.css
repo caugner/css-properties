@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:44.0) Gecko/20100101 Firefox/44.0
+# Mozilla/5.0 (Windows NT 5.2; rv:45.0) Gecko/20100101 Firefox/45.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -38,9 +38,9 @@
 -moz-user-modify: read-only;
 -moz-user-select: auto;
 -moz-window-dragging: no-drag;
-align-content: stretch;
-align-items: stretch;
-align-self: stretch;
+align-content: auto;
+align-items: start;
+align-self: start;
 animation-delay: 0s;
 animation-direction: normal;
 animation-duration: 0s;
@@ -137,7 +137,9 @@ image-orientation: 0deg;
 image-rendering: auto;
 ime-mode: auto;
 isolation: auto;
-justify-content: flex-start;
+justify-content: auto;
+justify-items: start;
+justify-self: start;
 left: auto;
 letter-spacing: normal;
 lighting-color: rgb(255, 255, 255);
@@ -179,7 +181,7 @@ page-break-after: auto;
 page-break-before: auto;
 page-break-inside: auto;
 paint-order: normal;
-perspective-origin: 952px 11px;
+perspective-origin: 485px 11px;
 perspective: none;
 pointer-events: auto;
 position: static;
@@ -220,7 +222,7 @@ text-rendering: auto;
 text-shadow: none;
 text-transform: none;
 top: auto;
-transform-origin: 952px 11px;
+transform-origin: 485px 11px;
 transform-style: flat;
 transform: none;
 transition-delay: 0s;
@@ -232,7 +234,7 @@ vector-effect: none;
 vertical-align: baseline;
 visibility: visible;
 white-space: pre;
-width: 1882px;
+width: 948px;
 will-change: auto;
 word-break: normal;
 word-spacing: 0px;
