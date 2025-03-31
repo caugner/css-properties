@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:27.0) Gecko/20100101 Firefox/27.0
+# Mozilla/5.0 (Windows NT 5.2; rv:28.0) Gecko/20100101 Firefox/28.0
 
 -moz-appearance: none;
 -moz-background-inline-policy: continuous;
@@ -46,6 +46,7 @@
 -moz-user-modify: read-only;
 -moz-user-select: auto;
 -moz-window-shadow: default;
+align-content: stretch;
 align-items: stretch;
 align-self: stretch;
 animation-delay: 0s;
@@ -114,6 +115,7 @@ flex-basis: auto;
 flex-direction: row;
 flex-grow: 0;
 flex-shrink: 1;
+flex-wrap: nowrap;
 float: none;
 flood-color: rgb(0, 0, 0);
 flood-opacity: 1;
