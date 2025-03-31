@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:38.0) Gecko/20100101 Firefox/38.0
+# Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -190,6 +190,12 @@ right: auto;
 ruby-align: space-around;
 ruby-position: over;
 scroll-behavior: auto;
+scroll-snap-coordinate: none;
+scroll-snap-destination: 0px 0px;
+scroll-snap-points-x: none;
+scroll-snap-points-y: none;
+scroll-snap-type-x: none;
+scroll-snap-type-y: none;
 shape-rendering: auto;
 stop-color: rgb(0, 0, 0);
 stop-opacity: 1;
