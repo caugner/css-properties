@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; WOW64; rv:64.0) Gecko/20100101 Firefox/64.0
+# Mozilla/5.0 (Windows NT 6.1; WOW64; rv:65.0) Gecko/20100101 Firefox/65.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -51,7 +51,7 @@ background-position-x: 0%;
 background-position-y: 0%;
 background-position: 0% 0%;
 background-repeat: repeat;
-background-size: auto auto;
+background-size: auto;
 block-size: 0px;
 border-block-end-color: rgb(221, 221, 221);
 border-block-end-style: solid;
@@ -66,7 +66,7 @@ border-bottom-style: solid;
 border-bottom-width: 1px;
 border-collapse: separate;
 border-image-outset: 0;
-border-image-repeat: stretch stretch;
+border-image-repeat: stretch;
 border-image-slice: 100%;
 border-image-source: none;
 border-image-width: 1;
@@ -92,6 +92,9 @@ bottom: auto;
 box-decoration-break: slice;
 box-shadow: none;
 box-sizing: content-box;
+break-after: auto;
+break-before: auto;
+break-inside: auto;
 caption-side: top;
 caret-color: rgb(0, 0, 0);
 clear: none;
@@ -197,7 +200,7 @@ mask-position-x: 0%;
 mask-position-y: 0%;
 mask-position: 0% 0%;
 mask-repeat: repeat;
-mask-size: auto auto;
+mask-size: auto;
 mask-type: luminance;
 mask: none;
 max-block-size: none;
@@ -233,7 +236,6 @@ padding-right: 10px;
 padding-top: 10px;
 page-break-after: auto;
 page-break-before: auto;
-page-break-inside: auto;
 paint-order: normal;
 perspective-origin: 472px 11px;
 perspective: none;
@@ -252,7 +254,7 @@ scroll-snap-points-x: none;
 scroll-snap-points-y: none;
 scroll-snap-type-x: none;
 scroll-snap-type-y: none;
-scrollbar-color: rgb(205, 205, 205) rgb(240, 240, 240);
+scrollbar-color: auto;
 scrollbar-width: auto;
 shape-image-threshold: 0;
 shape-margin: 0px;
