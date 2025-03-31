@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
 
 -moz-appearance: none;
 -moz-box-align: stretch;
@@ -168,7 +168,7 @@ grid-template-columns: none;
 grid-template-rows: none;
 height: 0px;
 hyphens: manual;
-image-orientation: none;
+image-orientation: from-image;
 image-rendering: auto;
 ime-mode: auto;
 inline-size: 922px;
