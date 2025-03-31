@@ -1,5 +1,13 @@
-# Mozilla/5.0 (Windows NT 5.2; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+# Mozilla/5.0 (Windows NT 5.2; rv:5.0.1) Gecko/20100101 Firefox/5.0.1
 
+-moz-animation-delay: 0s;
+-moz-animation-direction: normal;
+-moz-animation-duration: 0s;
+-moz-animation-fill-mode: none;
+-moz-animation-iteration-count: 1;
+-moz-animation-name: none;
+-moz-animation-play-state: running;
+-moz-animation-timing-function: cubic-bezier(0.250000, 0.100000, 0.250000, 1.000000);
 -moz-appearance: none;
 -moz-background-inline-policy: continuous;
 -moz-binding: none;
