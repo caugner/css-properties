@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0
+# Mozilla/5.0 (Windows NT 6.1; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -14,6 +14,7 @@
 -moz-box-ordinal-group: 1;
 -moz-box-orient: horizontal;
 -moz-box-pack: start;
+-moz-context-properties: none;
 -moz-float-edge: content-box;
 -moz-force-broken-image-icon: 0;
 -moz-image-region: auto;
@@ -30,6 +31,9 @@
 -moz-user-modify: read-only;
 -moz-user-select: auto;
 -moz-window-dragging: default;
+-moz-window-opacity: 1;
+-moz-window-transform-origin: 952px 11px;
+-moz-window-transform: none;
 -webkit-text-fill-color: rgb(0, 0, 0);
 -webkit-text-stroke-color: rgb(0, 0, 0);
 -webkit-text-stroke-width: 0px;
@@ -62,11 +66,11 @@ border-bottom-right-radius: 5px;
 border-bottom-style: solid;
 border-bottom-width: 1px;
 border-collapse: separate;
-border-image-outset: 0 0 0 0;
+border-image-outset: 0;
 border-image-repeat: stretch stretch;
-border-image-slice: 100% 100% 100% 100%;
+border-image-slice: 100%;
 border-image-source: none;
-border-image-width: 1 1 1 1;
+border-image-width: 1;
 border-left-color: rgb(221, 221, 221);
 border-left-style: solid;
 border-left-width: 1px;
@@ -249,6 +253,7 @@ text-emphasis-color: rgb(0, 0, 0);
 text-emphasis-position: over right;
 text-emphasis-style: none;
 text-indent: 0px;
+text-justify: auto;
 text-orientation: mixed;
 text-overflow: clip;
 text-rendering: auto;
@@ -256,6 +261,7 @@ text-shadow: none;
 text-transform: none;
 top: auto;
 touch-action: auto;
+transform-box: border-box;
 transform-origin: 952px 11px;
 transform-style: flat;
 transform: none;
