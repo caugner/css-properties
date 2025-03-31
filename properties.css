@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:28.0) Gecko/20100101 Firefox/28.0
+# Mozilla/5.0 (Windows NT 5.2; rv:29.0) Gecko/20100101 Firefox/29.0
 
 -moz-appearance: none;
 -moz-background-inline-policy: continuous;
@@ -15,7 +15,6 @@
 -moz-box-ordinal-group: 1;
 -moz-box-orient: horizontal;
 -moz-box-pack: start;
--moz-box-sizing: content-box;
 -moz-column-count: auto;
 -moz-column-fill: balance;
 -moz-column-gap: 13px;
@@ -91,6 +90,7 @@ border-top-style: solid;
 border-top-width: 1px;
 bottom: auto;
 box-shadow: none;
+box-sizing: content-box;
 caption-side: top;
 clear: none;
 clip-path: none;
