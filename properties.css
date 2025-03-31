@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
 
 -moz-box-align: stretch;
 -moz-box-direction: normal;
@@ -184,7 +184,7 @@ hyphens: manual;
 image-orientation: from-image;
 image-rendering: auto;
 ime-mode: auto;
-inline-size: 1968px;
+inline-size: 922px;
 inset-block-end: auto;
 inset-block-start: auto;
 inset-inline-end: auto;
@@ -266,7 +266,7 @@ padding-right: 10px;
 padding-top: 10px;
 page: auto;
 paint-order: normal;
-perspective-origin: 995px 11px;
+perspective-origin: 472px 11px;
 perspective: none;
 pointer-events: auto;
 position: static;
@@ -345,7 +345,7 @@ text-underline-position: auto;
 top: auto;
 touch-action: auto;
 transform-box: view-box;
-transform-origin: 995px 11px;
+transform-origin: 472px 11px;
 transform-style: flat;
 transform: none;
 transition-delay: 0s;
@@ -359,7 +359,7 @@ vector-effect: none;
 vertical-align: baseline;
 visibility: visible;
 white-space: pre;
-width: 1968px;
+width: 922px;
 will-change: auto;
 word-break: normal;
 word-spacing: 0px;
