@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0
+# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
 
 -moz-appearance: none;
 -moz-box-align: stretch;
@@ -114,6 +114,7 @@ column-gap: normal;
 column-rule-color: rgb(0, 0, 0);
 column-rule-style: none;
 column-rule-width: 0px;
+column-span: none;
 column-width: auto;
 contain: none;
 content: none;
@@ -184,7 +185,7 @@ left: auto;
 letter-spacing: normal;
 lighting-color: rgb(255, 255, 255);
 line-break: auto;
-line-height: 15px;
+line-height: normal;
 list-style-image: none;
 list-style-position: outside;
 list-style-type: disc;
