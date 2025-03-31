@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0
 
 -moz-box-align: stretch;
 -moz-box-direction: normal;
@@ -149,6 +149,7 @@ font-family: monospace;
 font-feature-settings: normal;
 font-kerning: auto;
 font-language-override: normal;
+font-optical-sizing: auto;
 font-palette: normal;
 font-size-adjust: none;
 font-size: 13px;
@@ -163,6 +164,7 @@ font-variant-east-asian: normal;
 font-variant-ligatures: normal;
 font-variant-numeric: normal;
 font-variant-position: normal;
+font-variation-settings: normal;
 font-weight: 400;
 forced-color-adjust: auto;
 grid-auto-columns: auto;
