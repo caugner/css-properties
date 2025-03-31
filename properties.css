@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Windows NT 5.2; rv:11.0) Gecko/20100101 Firefox/11.0
+# Mozilla/5.0 (Windows NT 5.2; rv:12.0) Gecko/20100101 Firefox/12.0
 
 -moz-animation-delay: 0s;
 -moz-animation-direction: normal;
@@ -45,6 +45,7 @@
 -moz-perspective: none;
 -moz-stack-sizing: stretch-to-fit;
 -moz-tab-size: 8;
+-moz-text-align-last: auto;
 -moz-text-blink: none;
 -moz-text-decoration-color: rgb(0, 0, 0);
 -moz-text-decoration-line: none;
