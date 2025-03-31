@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0
 
 -moz-box-align: stretch;
 -moz-box-direction: normal;
@@ -155,6 +155,7 @@ font-size-adjust: none;
 font-size: 13px;
 font-stretch: 100%;
 font-style: normal;
+font-synthesis-position: auto;
 font-synthesis-small-caps: auto;
 font-synthesis-style: auto;
 font-synthesis-weight: auto;
@@ -343,7 +344,7 @@ text-underline-offset: auto;
 text-underline-position: auto;
 top: auto;
 touch-action: auto;
-transform-box: border-box;
+transform-box: view-box;
 transform-origin: 472px 11px;
 transform-style: flat;
 transform: none;
