@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:49.0) Gecko/20100101 Firefox/49.0
+# Mozilla/5.0 (Windows NT 5.2; rv:50.0) Gecko/20100101 Firefox/50.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -187,7 +187,7 @@ page-break-after: auto;
 page-break-before: auto;
 page-break-inside: auto;
 paint-order: normal;
-perspective-origin: 952px 11px;
+perspective-origin: 485px 11px;
 perspective: none;
 pointer-events: auto;
 position: static;
@@ -233,19 +233,19 @@ text-rendering: auto;
 text-shadow: none;
 text-transform: none;
 top: auto;
-transform-origin: 952px 11px;
+transform-origin: 485px 11px;
 transform-style: flat;
 transform: none;
 transition-delay: 0s;
 transition-duration: 0s;
 transition-property: all;
 transition-timing-function: ease;
-unicode-bidi: -moz-isolate;
+unicode-bidi: isolate;
 vector-effect: none;
 vertical-align: baseline;
 visibility: visible;
 white-space: pre;
-width: 1882px;
+width: 948px;
 will-change: auto;
 word-break: normal;
 word-spacing: 0px;
