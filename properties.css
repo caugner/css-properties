@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:25.0) Gecko/20100101 Firefox/25.0
+# Mozilla/5.0 (Windows NT 5.2; rv:26.0) Gecko/20100101 Firefox/26.0
 
 -moz-appearance: none;
 -moz-background-inline-policy: continuous;
@@ -38,7 +38,6 @@
 -moz-stack-sizing: stretch-to-fit;
 -moz-tab-size: 8;
 -moz-text-align-last: auto;
--moz-text-blink: none;
 -moz-text-decoration-color: rgb(0, 0, 0);
 -moz-text-decoration-line: none;
 -moz-text-decoration-style: solid;
@@ -135,6 +134,7 @@ font-variant-position: ;
 font-variant: normal;
 font-weight: 400;
 height: 0px;
+image-orientation: 0deg;
 image-rendering: auto;
 ime-mode: auto;
 justify-content: flex-start;
@@ -159,6 +159,7 @@ max-height: none;
 max-width: none;
 min-height: 0px;
 min-width: 0px;
+mix-blend-mode: ;
 opacity: 1;
 order: 0;
 outline-color: rgb(0, 0, 0);
@@ -197,8 +198,10 @@ stroke: none;
 table-layout: auto;
 text-align: start;
 text-anchor: start;
+text-combine-horizontal: ;
 text-decoration: none;
 text-indent: 0px;
+text-orientation: ;
 text-overflow: clip;
 text-rendering: auto;
 text-shadow: none;
