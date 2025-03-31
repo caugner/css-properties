@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:24.0) Gecko/20100101 Firefox/24.0
+# Mozilla/5.0 (Windows NT 5.2; rv:25.0) Gecko/20100101 Firefox/25.0
 
 -moz-appearance: none;
 -moz-background-inline-policy: continuous;
@@ -30,6 +30,7 @@
 -moz-hyphens: manual;
 -moz-image-region: auto;
 -moz-orient: auto;
+-moz-osx-font-smoothing: ;
 -moz-outline-radius-bottomleft: 0px;
 -moz-outline-radius-bottomright: 0px;
 -moz-outline-radius-topleft: 0px;
