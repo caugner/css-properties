@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 5.2; rv:52.0) Gecko/20100101 Firefox/52.0
+# Mozilla/5.0 (Windows NT 6.1; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -84,6 +84,7 @@ box-decoration-break: slice;
 box-shadow: none;
 box-sizing: content-box;
 caption-side: top;
+caret-color: rgb(0, 0, 0);
 clear: none;
 clip-path: none;
 clip-rule: nonzero;
@@ -160,7 +161,7 @@ justify-self: auto;
 left: auto;
 letter-spacing: normal;
 lighting-color: rgb(255, 255, 255);
-line-height: 16px;
+line-height: 15px;
 list-style-image: none;
 list-style-position: outside;
 list-style-type: disc;
@@ -171,6 +172,16 @@ margin-top: 13px;
 marker-end: none;
 marker-mid: none;
 marker-start: none;
+mask-clip: border-box;
+mask-composite: add;
+mask-image: none;
+mask-mode: match-source;
+mask-origin: border-box;
+mask-position-x: 0%;
+mask-position-y: 0%;
+mask-position: 0% 0%;
+mask-repeat: repeat;
+mask-size: auto auto;
 mask-type: luminance;
 mask: none;
 max-height: none;
@@ -198,7 +209,7 @@ page-break-after: auto;
 page-break-before: auto;
 page-break-inside: auto;
 paint-order: normal;
-perspective-origin: 952px 11px;
+perspective-origin: 997.5px 11px;
 perspective: none;
 pointer-events: auto;
 position: static;
@@ -245,7 +256,7 @@ text-shadow: none;
 text-transform: none;
 top: auto;
 touch-action: auto;
-transform-origin: 952px 11px;
+transform-origin: 997.5px 11px;
 transform-style: flat;
 transform: none;
 transition-delay: 0s;
@@ -257,7 +268,7 @@ vector-effect: none;
 vertical-align: baseline;
 visibility: visible;
 white-space: pre;
-width: 1882px;
+width: 1973px;
 will-change: auto;
 word-break: normal;
 word-spacing: 0px;
