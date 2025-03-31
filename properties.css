@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+# Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
 
 -moz-box-align: stretch;
 -moz-box-direction: normal;
@@ -238,6 +238,7 @@ object-position: 50% 50%;
 offset-anchor: auto;
 offset-distance: 0px;
 offset-path: none;
+offset-position: normal;
 offset-rotate: auto;
 opacity: 1;
 order: 0;
