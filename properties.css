@@ -1,6 +1,6 @@
 
 
-# Mozilla/5.0 (Windows NT 6.1; WOW64; rv:63.0) Gecko/20100101 Firefox/63.0
+# Mozilla/5.0 (Windows NT 6.1; WOW64; rv:64.0) Gecko/20100101 Firefox/64.0
 
 -moz-appearance: none;
 -moz-binding: none;
@@ -252,6 +252,8 @@ scroll-snap-points-x: none;
 scroll-snap-points-y: none;
 scroll-snap-type-x: none;
 scroll-snap-type-y: none;
+scrollbar-color: rgb(205, 205, 205) rgb(240, 240, 240);
+scrollbar-width: auto;
 shape-image-threshold: 0;
 shape-margin: 0px;
 shape-outside: none;
