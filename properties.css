@@ -1,4 +1,4 @@
-# Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Safari/605.1.15
+# Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.2 Safari/605.1.15
 
 -apple-pay-button-style: black;
 -apple-pay-button-type: plain;
@@ -210,7 +210,7 @@ hyphenate-character: auto;
 hyphens: manual;
 image-orientation: from-image;
 image-rendering: auto;
-inline-size: 1690px;
+inline-size: 1882px;
 inset-block-end: auto;
 inset-block-start: auto;
 inset-inline-end: auto;
@@ -296,7 +296,7 @@ padding-left: 10px;
 padding-right: 10px;
 padding-top: 10px;
 paint-order: normal;
-perspective-origin: 856px 11px;
+perspective-origin: 952px 11px;
 perspective: none;
 pointer-events: auto;
 position-anchor: auto;
@@ -390,7 +390,7 @@ timeline-scope: none;
 top: auto;
 touch-action: auto;
 transform-box: view-box;
-transform-origin: 856px 11px;
+transform-origin: 952px 11px;
 transform-style: flat;
 transform: none;
 transition-behavior: normal;
@@ -410,7 +410,7 @@ view-transition-name: none;
 visibility: visible;
 white-space-collapse: preserve;
 widows: 2;
-width: 1690px;
+width: 1882px;
 will-change: auto;
 word-break: normal;
 word-spacing: 0px;
